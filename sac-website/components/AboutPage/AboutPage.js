@@ -79,14 +79,11 @@ const AboutPage = () => {
       />
       <AboutNITR
         img="https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/NITR-Image.jpg?fit=1920%2C750&ssl=1"
-        description="National Institute of Technology, Rourkela (NITR) embellishes a sound unit of consistency and diligence to emerge as one of the country's most flourishing educational organisations.
-The institute takes pleasure in being the third-best National Institute of Technology, with rankings of 15th in the Engineering sector and 24th in the RnD domain among all participating colleges in NIRF 2022.
-Since abiding the identification of NIT in 2002, we have worked to attain our full potential in every conceivable subject and domain. Our institute, owning the maximum number of branches by any NIT, features a student body of close to 6000 people passionate about their careers.
-Diverse research shows that the NITR student community is continually engaged and focused on ways to develop improved and beneficial technology for the country and humanity."
+        description="The National Institute of Technology, Rourkela (NITR), stands as a premier educational institution with a strong commitment. It holds the third rank among National Institutes of Technology and achieved significant rankings of 15th in Engineering and 24th in Research and Development (R&D) in NIRF 2022. Since its recognition as an NIT in 2002, the institute consistently pursues excellence across disciplines. NITR boasts the highest count of branches among NITs, catering to diverse academic interests for around 6000 passionate students dedicated to advancing technology through research"
       />
       {/* <DeanSpeaks data="Vision" /> */}
 
-      <h1 className="w-[100%] text-3xl font-[600] p-4 text-center ">
+      <h1 className="w-[100%] text-3xl font-[600] p-[2.5rem] max-[500px]:mt-[5rem] text-center  ">
         Executive Body
       </h1>
       <div className="grid grid-cols-[24vw_24vw] place-content-center gap-x-[10vw] pt-[2rem] gap-y-[10vh] pb-[1rem] max-[600px]:grid-cols-[80vw] ">
