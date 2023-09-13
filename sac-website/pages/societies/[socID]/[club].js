@@ -35,7 +35,8 @@ export default function club({ data }) {
         data={`About ${data.clubName}`}
         image={data.clubGroupPhoto}
         description={data.clubDescription}
-      />
+      /> 
+      
       {/* <SocietyRepresentative data="Club Representatives"/> */}
 
       <div className="md:grid md:grid-cols-3 lg:flex lg:items-center lg:flex-wrap lg:justify-evenly p-[2rem]  ">
@@ -51,6 +52,7 @@ export default function club({ data }) {
           );
         })} 
       </div>
+     
     </>
   );
 }

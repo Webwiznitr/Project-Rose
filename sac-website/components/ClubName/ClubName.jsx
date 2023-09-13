@@ -37,6 +37,7 @@ export default function ClubName({ socName }) {
                 {club.clubName}
               </div>
             </div>
+           
           </Link>
         ))}
       </div>

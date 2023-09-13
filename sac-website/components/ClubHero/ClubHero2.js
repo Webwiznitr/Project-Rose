@@ -2,6 +2,8 @@ import React from "react";
 import SocialsLink from "../SocialsLink/SocialsLink";
 import { FaLinkedin, FaTwitter, FaInstagram, FaFacebook } from "react-icons/fa";
 import DeanSpeaks from "../DeanSpeaks/DeanSpeaks";
+
+
 const ClubHero2 = ({
   name,
   tagline,
@@ -61,6 +63,7 @@ const ClubHero2 = ({
             </span>{" "}
           </div>
         </div>
+
       </div>
     </div>
   );
