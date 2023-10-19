@@ -11,34 +11,27 @@ const FAQ = () => {
   }
   const questions = [
     {
-      question: "Who is SAC?",
+      question:
+        "What is the Student Activity Center (SAC) at NIT Rourkela, and what is its primary role?",
       answer:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic soluta, fuga temporibus voluptate velit fugiat rerum? Temporibus sunt necessitatibus quam.",
+        "The Student Activity Center (SAC) at NIT Rourkela is a vital student body responsible for overseeing and organizing various events and activities that contribute to the overall development and well-being of the students. Its primary role includes conducting a wide range of events, fests, and initiatives aimed at enhancing technical, cultural, and soft skills aspects of students' lives.",
     },
     {
-      question: "What SAC does?",
+      question:
+        " What are some of the major festivals and events organized by SAC?",
       answer:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic soluta, fuga temporibus voluptate velit fugiat rerum? Temporibus sunt necessitatibus quam.",
+        "SAC is known for hosting a variety of festivals and events throughout the year. Some of the major events include:Innovision: NIT Rourkela's annual technical festival, featuring technical competitions, workshops, and guest lectures.NITRUTSAV: The cultural fest that celebrates diversity and creativity through music, dance, drama, and more.NITRIMUN: A Model United Nations (MUN) conference where students engage in debates and diplomacy. Cosmo: Occasional celebrations of various regional and ethnic cultures to promote diversity and harmony.",
     },
     {
-      question: "Why to we need SAC?",
+      question:
+        " How does SAC contribute to students' soft skills development?",
       answer:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic soluta, fuga temporibus voluptate velit fugiat rerum? Temporibus sunt necessitatibus quam.",
+        " SAC conducts workshops, seminars, and training sessions aimed at improving students' soft skills. These sessions cover topics like communication, leadership, teamwork, time management, and other important skills that are valuable in both academic and professional settings. Students can attend these sessions to enhance their personal and professional growth.",
     },
     {
-      question: "Lorem ipsum dolor sit amet?",
+      question: "How does SAC ensure the welfare of students at NIT Rourkela?",
       answer:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic soluta, fuga temporibus voluptate velit fugiat rerum? Temporibus sunt necessitatibus quam.",
-    },
-    {
-      question: "Lorem ipsum dolor sit amet?",
-      answer:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic soluta, fuga temporibus voluptate velit fugiat rerum? Temporibus sunt necessitatibus quam.",
-    },
-    {
-      question: "Lorem ipsum dolor sit amet?",
-      answer:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic soluta, fuga temporibus voluptate velit fugiat rerum? Temporibus sunt necessitatibus quam.",
+        "SAC plays a crucial role in ensuring the welfare of students by providing a platform for recreational and extracurricular activities. It also facilitates student engagement, offers mental health support, and promotes a sense of belonging within the NIT Rourkela community. SAC often collaborates with the institute administration to address student concerns and improve their overall experience.",
     },
   ];
 
