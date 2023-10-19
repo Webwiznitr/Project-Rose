@@ -56,7 +56,8 @@ export default function club({ data }) {
               key={idx}
               name={data[1]}
               designation={data[0]}
-              email={"webwiz.support@gmail.com"}
+              imgsrc={data[3]}
+              email={data[2]}
             />
           );
         })}

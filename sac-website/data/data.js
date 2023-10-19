@@ -394,16 +394,56 @@ const clubData = [
     clubGroupPhoto:
       "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137516/ClubGroupPhoto/AIChE_NITR-Club_Group_pic_-_Bibhuti_Bhusan_Pradhan_ulcg6i.jpg",
     clubEB: [
-      ["President", "Siddharth Ray", "96687 49887"],
-      ["Vice-President", "Suman Kumar Mishra", "78488 02390"],
-      ["Secretary", "Vedant V Pendse", "88280 84250"],
-      ["Secretary", "Arpit S Pati", "95568 58268"],
-      ["Treasurer", "Bibhuti B Pradhan", "91143 08375"],
-      ["Relations Head", "Shweta Mohanty", "94396 35765"],
-      ["Design Head", "Sagar Mangaraj", "84579 55638"],
-      ["Content Head", "Anitha Sharma", "79936 93395"],
-      ["Chem-E-Car Head", "Priyanshu Das", "93379 91462"],
-      ["Web Development Head", "Sandeep K Padhy", "96920 11102"],
+      [
+        "President",
+        "AASHIRBAD SABAT",
+        "121ch0095@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720775/Screenshot_2023-09-03-00-10-54-912_com.miui.gallery_nxhwzh.jpg",
+      ],
+      [
+        "Vice-President",
+        "ARSHITA MISHRA",
+        "121ch0090@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720861/WhatsApp_Image_2023-08-08_at_18.55.57_a6wfs7.jpg",
+      ],
+      [
+        "Secretary",
+        "AYUSH MISHRA",
+        "121ch0091@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720861/WhatsApp_Image_2023-09-03_at_1.18.14_PM_wtpvuk.jpg",
+      ],
+      [
+        "Secretary",
+        "PRAJAKTA NANDA",
+        "121ch0658@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720861/PrajaktaDSLRImage_leapko.jpg",
+      ],
+      [
+        "Treasurer",
+        "ROHAN KUMAR PATRA",
+        "121ch0094@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697721139/IMG_20230902_095310_miuegg.jpg",
+      ],
+      [
+        "Relations Head",
+        "AISWARYA R BEHERA",
+        "121ch0743@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720861/Sac_Profile_w6qyi5.jpg",
+      ],
+      [
+        "Design Head",
+        "YASH PRAJAPATI",
+        "121ch0683@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697721390/Yash_Prajapati_igss7s.png",
+      ],
+      [
+        "Content Head",
+        "DIVYANSHU MOHANTY",
+        "121ch0092@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697721459/IMG_20230122_224644_2_hp0rqg.jpg",
+      ],
+      ["Chem-E-Car Head", "TUSHAR GUPTA", "121ch0682@nitrkl.ac.in", ""],
+      ["Web Development Head", "Sandeep K Padhy", "96920 11102", ""],
     ],
   },
   {
@@ -456,12 +496,42 @@ const clubData = [
     clubGroupPhoto:
       "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679136262/ClubGroupPhoto/IMG_2721_-_ASME_NITR_qlcooc.jpg",
     clubEB: [
-      ["President", "Deepak Kumar Mohanty", "7846869751"],
-      ["Vice-President", "Anisha Mohapatra", "6371392608"],
-      ["Secretary", "Manjit Kumar Sethy", "6370689808"],
-      ["Treasurer", "Essa Ameen Baig", "8093755784"],
-      ["Captain of BlueStreak", "Sarthak Sahoo", "6371258214"],
-      ["Vice-Captain of Blue-Streak", "Rahul Kumar Pandey", "9123130457"],
+      [
+        "President",
+        "Samidha",
+        "121me0857@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697719835/Samidha_qfjtzm.jpg",
+      ],
+      [
+        "Vice-President",
+        "Ayush Gupta",
+        "121me0506@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720075/Ayush_Gupta_rmunyj.jpg",
+      ],
+      [
+        "Secretary",
+        "Sanjeebani Tosh",
+        "121me0508@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720073/Sanjeebani_Tosh_e6rwnc.jpg",
+      ],
+      [
+        "Treasurer",
+        "Udita Mishra",
+        "121me0725@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720092/Udita_Mishra_w5m4fc.jpg",
+      ],
+      [
+        "Captain of BlueStreak",
+        "Suvendu Ghadhai",
+        "121me0858@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720072/Suvendu_Ghadai_i8mpta.jpg",
+      ],
+      [
+        "Vice-Captain of Blue-Streak",
+        "Hemant Rout",
+        "121me0994@nitrkl.ac.in",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697720524/Hemant_Rout_stsf03.jpg",
+      ],
     ],
   },
   {
@@ -1364,7 +1434,8 @@ const clubData = [
     clubFacad: "Tapas Kumar Mishra",
     clubFacadMob: 99,
     "clubDocccc ": "zz",
-    clubGroupPhoto:"https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679169760/IMG_9448_jjhqkv.jpg",
+    clubGroupPhoto:
+      "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679169760/IMG_9448_jjhqkv.jpg",
     clubEB: [
       ["President", "Gourab Nanda", "7327080609"],
       ["Vice President", "Kumar Shantanu", "6203158074"],
