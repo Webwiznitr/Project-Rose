@@ -898,44 +898,7 @@ export default function SocietyGallery({ title }) {
     ],
   ];
   
- const HeartHeart =[
-  [{
-    img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230814192110.jpg"
-  },
-  {
-    img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230814192126.jpg"
-  },
-  
-    {
-      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230814210654.jpg"
-    },
-    {
-      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230815113400.jpg"
-    },
- 
-    {
-      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230815113819.jpg"
-    }
-],
-[
-{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230815120313.jpg"},
-{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230815122144.jpg"},
-{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230815122431.jpg"},
-{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_IMG20230815123547.jpg"}
 
-]
-,[
-  {img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_WhatsApp%20Image%202023-08-06%20at%2022.10.34.jpg"},
-  {img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_WhatsApp%20Image%202023-08-06%20at%2022.44.55.jpg"},
-  {img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_WhatsApp%20Image%202023-09-05%20at%2021.46.58.jpg"},
-  {img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_WhatsApp%20Image%202023-09-05%20at%2021.46.59.jpg"}
-],[
-{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_WhatsApp%20Image%202023-09-05%20at%2023.15.16.jpg"},
-{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_WhatsApp%20Image%202023-09-05%20at%2023.15.17.jpg"},
-{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_WhatsApp%20Image%202023-09-05%20at%2023.25.46.jpg"},
-{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/HeartHeart/jpeg-optimizer_aa.jpg"}
-]
-]
 const SDG = [
 [{
   img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_308755719_3240311829574740_7208533148376851679_n.jpeg"
