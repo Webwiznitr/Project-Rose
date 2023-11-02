@@ -598,241 +598,313 @@ export default function SocietyGallery({ title }) {
   const cosmo = [
     [
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094547/cosmo/326801516_2137715769952076_6573928090331001421_n_iqwt7x.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-1.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094544/cosmo/326726993_1580746492399532_3659542357123065730_n_obyio3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-10.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094543/cosmo/326739735_602162055070560_2721702902245759038_n_eynypo.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-11.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326770670_1831279037228881_3574667790777756545_n_effzsz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-12.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326769113_1201297820762938_2959971467969655450_n_xzfwj3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-2.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326789574_856978982048869_4484573809603125309_n_amj8a3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-3.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326746657_1223675218572005_5342527622794320435_n_xdjsca.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-4.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094540/cosmo/326729925_1347304419398466_7515177636805732387_n_v4knrx.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-5.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094541/cosmo/326663617_455881003280805_1744622815671686395_n_sa1dku.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-6.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094540/cosmo/326688969_862533738364033_2157041159826493231_n_f9zmfq.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-8.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094540/cosmo/326593599_548722457301112_7021333885746268395_n_ydhhm5.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-9.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094539/cosmo/326567724_538390611586517_7792614186201883640_n_hginyj.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-1.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094520/cosmo/326250339_732422598312245_6061164052703152239_n_ocowx8.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-2.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094519/cosmo/326232441_504634421779082_522532710088932995_n_ujaceh.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-3.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094520/cosmo/326269303_896293468173603_697154942974703970_n_qsudue.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-4.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/10631074_719204874824860_3610820194899291912_o_byczcd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-5.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/941801_544307238981292_967884057_n_mdnowa.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-6.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/1400504_544307952314554_16409990_o_iyqire.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-7.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/12646_544307425647940_2090336337_n_xyaeol.jpg",
-      },
-    ],
-    [
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094539/cosmo/326681609_704262081415351_6880955639836155032_n_renzop.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094538/cosmo/326586771_1946512199013400_8249174499762068308_n_a24gaf.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094537/cosmo/326532969_1273196719904227_8522406070940327044_n_zs4xph.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094536/cosmo/326529293_591298389492841_8122153863078340666_n_qfmrfg.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094538/cosmo/326502368_701916558000183_950391606198679883_n_lgxrtv.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094537/cosmo/326566128_853646972580245_5870302530809331963_n_wjr2lb.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094536/cosmo/326551958_573846414670332_3220177084909985871_n_kkzok8.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094534/cosmo/326505291_566218035141743_8318004181118166838_n_w0y2e3.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/81829362_2725895184155809_5125368651104387072_n_wv5mzr.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094508/cosmo/46042391_1977935075618494_7534279287600316416_n_pklgec.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/14882117_1143342889077721_685590207079216243_o_qcp8l8.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/14876653_1141894189222591_4655026734957743163_o_aqqum2.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094506/cosmo/45973439_1977930038952331_784724107328487424_n_rtpt5e.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094510/cosmo/82087834_2725889197489741_6433965858149629952_n_pmexut.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094508/cosmo/81981011_2730634570348537_8388299750197166080_n_smzzqe.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/81955381_2725883187490342_3229680037812764672_n_iksj61.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094509/cosmo/82131516_2730644453680882_6996409314667659264_n_drdyxn.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094506/cosmo/46002466_1977927952285873_188821811897565184_n_pllnll.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0016.jpg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094534/cosmo/326490759_1330091007843983_3991087101077979600_n_sphvaf.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0019.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094531/cosmo/326455338_873887243892776_848400655454152611_n_ixaoo2.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0024.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094532/cosmo/326486654_1194250984551022_3800299267019945416_n_e9h1ti.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0037.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094533/cosmo/326507790_1165321791021250_2455549064432274565_n_v34itc.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0037.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094530/cosmo/326477918_2028238864050903_4783392592172938304_n_pdi1da.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0042.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094530/cosmo/326477918_2028238864050903_4783392592172938304_n_pdi1da.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0054.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094530/cosmo/326416005_1269632120432027_2762369601528938227_n_fagaj3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0054.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094510/cosmo/82191978_2730644947014166_8246715221276622848_n_smyooz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0061.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094509/cosmo/82071287_2725884917490169_4660738552152195072_n_mgpjk6.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0061.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094516/cosmo/325611970_3439601339630581_6512559757941330412_n_bqyzru.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0089.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094510/cosmo/82185813_2730640293681298_6995820736644382720_n_lmrztd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0099.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094515/cosmo/323419303_1376115612926984_5537123487566322802_n_v2170g.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0106.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094511/cosmo/82002182_2725902450821749_2517884994861400064_n_vleucd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0136.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094511/cosmo/82363003_2730633170348677_2814680253060874240_n_bnvgwb.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0136.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094518/cosmo/326223963_736574871227846_8760792837857279823_n_nkc4qu.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0142.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094511/cosmo/82550106_2730629590349035_7607416198329794560_n_pfgjhh.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0257.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094519/cosmo/326044037_742804423870192_9209480142822654084_n_l2olz7.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0302.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094512/cosmo/82912661_2730636203681707_7850717127756480512_n_dlirsg.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0004.jpg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094526/cosmo/326365672_693501088924434_3601613321628606036_n_x9h7pg.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0020.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094529/cosmo/326405315_537616924999715_3825533483181036787_n_bllecs.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0023.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/46057196_1977931378952197_5279753973568372736_n_tzenww.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0024.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094529/cosmo/326357268_1261025218094704_7942987106376326940_n_nr36kk.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0026.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094519/cosmo/326231104_1243266316534349_7350961641431276538_n_pfg6tf.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0035.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094527/cosmo/326363908_682763500210076_6548920936008751262_n_en08ie.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0048.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094526/cosmo/326387003_543489221073770_2396104022161292559_n_s0djkr.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0051.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094525/cosmo/326340271_894539271882586_7044149889241158111_n_xundxm.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0068.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0114.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094523/cosmo/326249313_888600562185648_429698947631548767_n_af4dte.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0116.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094523/cosmo/326354504_1297957934387369_6361623270098146158_n_etby3n.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0123.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0128.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094522/cosmo/326270864_862228068382704_274574866068352384_n_uruuzb.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0132.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094521/cosmo/326100359_521093463470075_2946804321443614666_n_n0fno2.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0141.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0147.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094521/cosmo/323712282_865021294781456_4675619626252051756_n_vrh60e.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0148.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094514/cosmo/83162421_2730648087013852_6291790728276213760_n_trbsp0.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0153.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0161.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094514/cosmo/83162421_2730648087013852_6291790728276213760_n_trbsp0.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0162.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094514/cosmo/323774420_717332726582006_6869407075916194237_n_wf3ee1.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-11-55-388.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094515/cosmo/325419865_1218097105459962_8737154895870162119_n_jqp4lz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0536.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094513/cosmo/323586630_964358334540662_3822545216048411725_n_prhias.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0550.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094515/cosmo/325613307_579356663563853_8627409365322328678_n_ys5tlz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0653.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094517/cosmo/325932631_855885912363828_5331445811585354785_n_jr0l18.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0654.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679095751/cosmo/1956952_719062278172453_893854861070338010_o_iefwwl.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0668.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0675.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0678.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0680.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0739.jpg",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0163.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0627.jpg",
+      },
+
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0679.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0715.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0774.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8672.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8684.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8791.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8822.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8822.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8999.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9025.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9103.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9123.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9155.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9157.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9160.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9186.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9215.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9335.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9382.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9456.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9506.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0468.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0478.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0545.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0557.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0559.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0564.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0582.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0642.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0740.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0761.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-03-19-760.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-05-25-724.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-08-50-292.jpg",
       },
     ],
   ];
+
+
   const asme = [
     [
       {
@@ -938,6 +1010,136 @@ export default function SocietyGallery({ title }) {
     ],
   ];
 
+
+  const udaan = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%201000004670.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%2020230118_181742.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20Copy%20of%20IMG-20230718-WA0009.jpg",
+      },
+
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20Copy%20of%20IMG20230716151507.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG-20230317-WA0022.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG-20230627-WA0064.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG-20230725-WA0017.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG_20221114_150439.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG_20230117_185302.jpg",
+    },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20UDN1.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20UDN8.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20WhatsApp%20Image%202022-11-16%20at%2011.41.41%20AM.jpeg",
+      },
+
+    ],
+
+  ];
+
+  const rotaract = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_20221030_170833.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20220810103604.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20220815095635.jpg",
+      },
+
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20220815095945.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20221113152108.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20221114132243.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230408_103512483.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230408_104419.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230408_105800175.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230830_122954.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230830_124440.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230830_215104.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_Screenshot%202023-09-03%20220529.png",
+    },
+
+    ],
+  ];
+
+  const shortCurcuit = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693650915483.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693650964831.jpg",
+      },
+
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651049493.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651049499.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651209228.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651291112.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer__storage_emulated_0_MIUI_Gallery_cloud_.cache_.share_.securityshare_temp_files_1693651291106.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651209228.jpg",
+    },
+    ],
+  ]
   let data1 = inno;
 
   if (title === "Technical Society") {
@@ -958,6 +1160,16 @@ export default function SocietyGallery({ title }) {
   } else if (title == "AICHE") {
     title = "";
     data1 = aiche;
+  }
+  else if (title == "UDAAN") {
+    title = "";
+    data1 = udaan;
+  } else if (title == "ROTRACT") {
+    title = "";
+    data1 = rotaract;
+  } else if (title == "SHORTCURCUIT") {
+    title = "";
+    data1 = shortCurcuit;
   } else {
     title = "";
     data1 = socGalleryData;
