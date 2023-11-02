@@ -248,6 +248,73 @@ export default function SocietyGallery({ title }) {
   const vriddhi = [
     [
       {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7482.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7483.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7504.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0118.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0121.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0163.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0225.jpg"
+      },
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204254.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204411-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204732-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0026-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0026.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0141.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0148.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0159.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0179.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0183.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Aryansh/IMG_7963.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0436.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0440.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0441.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0443.jpg"
+      },
+      {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091167/vriddhi/313422798_672173934471167_5353053668397946669_n_lhwmhi.jpg",
       },
       {
@@ -280,8 +347,75 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157725/vriddhi/313911139_671997661155461_5014518808981045190_n_ryl8sw.jpg",
       },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0236.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0256.jpg"
+      },
     ],
     [
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6637.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6734.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7441.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7447.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7460.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0184.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0190.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0061.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0066.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0076.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963771.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963785.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/1666969707716.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/1666969833881.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204146-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0455.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0456.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0459.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0468.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0052-2-1.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091164/vriddhi/313399530_672174211137806_2473869583321684998_n_to56ov.jpg",
       },
@@ -309,11 +443,72 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/312827115_672175041137723_9081006197337464758_n_oplvaa.jpg",
       },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/313417829_672172467804647_4353764114949922526_n_fqs3vx.jpg",
-      },
+      
     ],
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/photo_2022-10-30_22-09-20.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6478.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6507.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6540.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6587.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6636.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0078.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0105.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0111.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0113.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0116.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-31.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-32.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963666.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963708.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963744.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0057-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0065-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0073.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0083-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0154.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091162/vriddhi/313401932_672173041137923_522549174449123500_n_b3npgw.jpg",
       },
@@ -347,6 +542,69 @@ export default function SocietyGallery({ title }) {
     ],
     [
       {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/photo_2022-10-30_22-09-21.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0121.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0128.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0140.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0151.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0158.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0168.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0184.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0196.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0198.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0199.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-26.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-27.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-28.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-29.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-30.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0190.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Pratyush/badminton-iiit.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Pratyush/cork.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-24.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-25.jpg"
+      },
+      {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091160/vriddhi/312732078_672174011137826_5531301563542471114_n_iuddbe.jpg",
       },
       {
@@ -372,6 +630,9 @@ export default function SocietyGallery({ title }) {
       },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157726/vriddhi/313437391_671997934488767_869851903035814174_n_k0yebb.jpg",
+      },
+      {
+        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/313417829_672172467804647_4353764114949922526_n_fqs3vx.jpg",
       },
     ],
   ];
