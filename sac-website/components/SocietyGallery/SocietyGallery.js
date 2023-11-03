@@ -248,6 +248,73 @@ export default function SocietyGallery({ title }) {
   const vriddhi = [
     [
       {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7482.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7483.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7504.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0118.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0121.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0163.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0225.jpg"
+      },
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204254.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204411-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204732-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0026-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0026.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0141.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0148.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0159.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0179.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0183.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Aryansh/IMG_7963.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0436.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0440.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0441.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0443.jpg"
+      },
+      {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091167/vriddhi/313422798_672173934471167_5353053668397946669_n_lhwmhi.jpg",
       },
       {
@@ -280,8 +347,75 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157725/vriddhi/313911139_671997661155461_5014518808981045190_n_ryl8sw.jpg",
       },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0236.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0256.jpg"
+      },
     ],
     [
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6637.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6734.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7441.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7447.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7460.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0184.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0190.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0061.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0066.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0076.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963771.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963785.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/1666969707716.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/1666969833881.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204146-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0455.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0456.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0459.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0468.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0052-2-1.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091164/vriddhi/313399530_672174211137806_2473869583321684998_n_to56ov.jpg",
       },
@@ -309,11 +443,72 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/312827115_672175041137723_9081006197337464758_n_oplvaa.jpg",
       },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/313417829_672172467804647_4353764114949922526_n_fqs3vx.jpg",
-      },
+      
     ],
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/photo_2022-10-30_22-09-20.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6478.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6507.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6540.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6587.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6636.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0078.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0105.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0111.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0113.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0116.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-31.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-32.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963666.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963708.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963744.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0057-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0065-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0073.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0083-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0154.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091162/vriddhi/313401932_672173041137923_522549174449123500_n_b3npgw.jpg",
       },
@@ -347,6 +542,69 @@ export default function SocietyGallery({ title }) {
     ],
     [
       {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/photo_2022-10-30_22-09-21.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0121.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0128.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0140.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0151.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0158.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0168.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0184.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0196.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0198.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0199.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-26.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-27.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-28.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-29.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-30.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0190.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Pratyush/badminton-iiit.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Pratyush/cork.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-24.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-25.jpg"
+      },
+      {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091160/vriddhi/312732078_672174011137826_5531301563542471114_n_iuddbe.jpg",
       },
       {
@@ -373,11 +631,89 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157726/vriddhi/313437391_671997934488767_869851903035814174_n_k0yebb.jpg",
       },
+      {
+        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/313417829_672172467804647_4353764114949922526_n_fqs3vx.jpg",
+      },
     ],
   ];
 
   const nitrutsav = [
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0516.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0534.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0543.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0562.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0576.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0585.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0585.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0594.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0619.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0649.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0662-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0662.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0673.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0700.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0705.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0706.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0709.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0735.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0737.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0746.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0750.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0777.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0795.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0796.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0808.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099006/NU/51589913_2093169594095041_7199133806853357568_n_uezrcu.jpg",
       },
@@ -399,9 +735,9 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099001/NU/51182274_2094964613915539_8777619706442940416_n_jdevgo.jpg",
       },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099001/NU/51182274_2094964613915539_8777619706442940416_n_jdevgo.jpg",
-      },
+      // {
+      //   img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099001/NU/51182274_2094964613915539_8777619706442940416_n_jdevgo.jpg",
+      // },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099006/NU/51747373_2096499683762032_2167877621600223232_n_jjkxzu.jpg",
       },
@@ -423,11 +759,26 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098996/NU/27628554_1613945578684114_1069160744013059703_o_yyvfrm.jpg",
       },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098995/NU/12697416_959552314123447_271301524805459606_o_plh9se.jpg",
-      },
+      
+    
+        // {
+        //   img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0014-1.jpg"
+        // },
+         
     ],
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(1%20of%206).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(3%20of%206).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(4%20of%206).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(5%20of%206).jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099004/NU/51396432_2094871717258162_8694953143751933952_n_kxliiy.jpg",
       },
@@ -476,8 +827,140 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098996/NU/50722882_2094903827254951_5967876415209603072_n_tiv6yj.jpg",
       },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-1.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-10.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-11.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-12.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-13.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-15.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-16.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-14.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-17.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-18.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-19.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-21.jpg"
+      },
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-23.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-3.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-4.jpg"
+      },
+      // {
+      //   img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-5.jpg"
+      // },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-9.jpg"
+      },
+      
+       //42
+      
+      
     ],
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-6.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-7.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-9.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(14%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(15%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(16%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(17%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(18%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(19%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-22.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(2%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(20%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(21%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(23%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(24%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(25%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(26%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(27%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(28%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(3%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(4%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(6%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(7%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(8%20of%2028).jpg"
+      },
+      
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099006/NU/51632682_2096513963760604_1601628407446110208_n_toutni.jpg",
       },
@@ -542,8 +1025,40 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098999/NU/51078333_2094823220596345_7666022044990963712_n_dmnbml.jpg",
       },
-    ],
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0006.jpg"
+      },
+    ], 
+
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0016-1.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0023-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0029-3.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0033-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0036-3.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0041-4.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0045-5.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0055-6.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0062-7.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099003/NU/51357581_2094830900595577_5159491217083334656_n_pf4jcc.jpg",
       },
@@ -592,7 +1107,63 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098996/NU/27788591_1613945458684126_8855358071648154556_o_kfd3lh.jpg",
       },
-    ],
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0460.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0462.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0467.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0474.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0482.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0006.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0374.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0376.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0383.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0422.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0498.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(1%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(10%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(11%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(12%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(13%20of%2028).jpg"
+      },
+      {
+        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098995/NU/12697416_959552314123447_271301524805459606_o_plh9se.jpg",
+      }, 
+    ], 
+    
+    
+    
+      
+    
   ];
 
   const cosmo = [
