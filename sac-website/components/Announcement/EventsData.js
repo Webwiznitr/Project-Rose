@@ -1,8 +1,8 @@
 const EventsData = [
-  { event: "Nitrutsav 2023" },
-  { event: "Celebrity Night 2023" },
-  { event: "TBA" },
-  { event: "TBA" },
+  { event: "Innovision" },
+  { event: "Vriddhi" },
+  { event: "Cosmo" },
+  { event: "Nitrutsav" },
 ];
 
 export default EventsData;

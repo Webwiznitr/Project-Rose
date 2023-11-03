@@ -115,7 +115,7 @@ export default function societies() {
         {/* For Mobile  */}
         {socData.map((soc, index) => (
           <div
-            className="w-[100%] h-[25%]  min-[1059px]:hidden h:shadow-lg transition duration-600 ease-in-out hover:scale-110 "
+            className="w-[100%] h-[25%]  min-[1059px]:hidden hover:shadow-lg transition duration-600 ease-in-out hover:scale-110 "
             key={index}
           >
             <Link href={`/societies/${soc.name}`}>

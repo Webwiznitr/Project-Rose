@@ -12,7 +12,7 @@ import SocietyGallery from "../components/SocietyGallery/SocietyGallery";
 // import ClubHero from "@/components/ClubHero/ClubHero";
 import AboutPage from "../components/AboutPage/AboutPage";
 import Gallery from "@/components/Gallery/Gallery";
-
+import Slider from "@/components/SocietySlider/Slider"
 import ContactPage from "@/components/ContactPage/ContactPage";
 
 import HomePageMobile from "@/components/HomePageMobile";
@@ -68,17 +68,17 @@ export default function Home() {
         />
         <Deanspeaks
 
-          data="Message from Dean"
-          img="https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679148287/Director_NIT_Rourkela_twwguz.png"
+        data="Message from Dean"
+        image="https://res.cloudinary.com/du3uvgzdr/image/upload/v1698967740/dean_r6xbdl.jpg"
 
-          description="I would request the students to have a little patience. Staying at home might have gotten boring now but I hope that they don’t feel disturbed. Today’s young generation is very vibrant, and they do not want to be stuck within the same four walls. But, the situation doesn’t allow us to have all the flexibility which we wish to have. I hope after the pooja vacations things change and soon all the students will be asked to return to campus."
-        />
-         <AboutNITR
-          data="President Sac Speaks"
-           img="https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg"
-          description="I would request the students to have a little patience. Staying at home might have gotten boring now but I hope that they don’t feel disturbed. Today’s young generation is very vibrant, and they do not want to be stuck within the same four walls. But, the situation doesn’t allow us to have all the flexibility which we wish to have. I hope after the pooja vacations things change and soon all the students will be asked to return to campus."
-        />
-       
+        description="NIT Rourkela, a prestigious national institute, aims to mold responsible future citizens for nation-building. We prioritize all-round development, not just academics, fostering a transition from a developing to a developed country. The Student Activity Center plays a pivotal role in personality development. It offers a diverse range of clubs and organizations, covering academics, athletics, arts, and literature, providing students with a treasure trove of opportunities. Whether you seek friendships, skills, or enjoyment, this vibrant hub is the place to explore during your college journey. Embrace the Student Activity Center for a holistic and enjoyable college experience, igniting your passion for learning and growth."
+/>
+<AboutNITR
+data="President Sac Speaks"
+ img="https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg"
+description="As President of NIT Rourkela's Student Activity Centre, I warmly welcome you to this dynamic hub of student life. We're dedicated to enhancing the overall student experience, believing that education extends beyond classrooms. This center is a crucible of creativity, innovation, and holistic development, where students explore interests, nurture talents, and build lasting connections. Our mission is to provide a platform for diverse activities, including cultural, sports, technical, and entrepreneurial pursuits. I commit to working with our team to maintain a vibrant, inclusive space, organizing engaging events, workshops, and activities. Thanks to the NIT Rourkela community's support, we'll create an unforgettable college journey."
+/>
+        <Slider/>
         <Announcement />
         <SocietyRepresentative />
         <Carousel />

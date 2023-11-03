@@ -248,6 +248,73 @@ export default function SocietyGallery({ title }) {
   const vriddhi = [
     [
       {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7482.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7483.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7504.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0118.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0121.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0163.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0225.jpg"
+      },
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204254.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204411-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204732-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0026-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0026.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0141.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0148.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0159.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0179.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0183.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Aryansh/IMG_7963.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0436.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0440.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0441.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0443.jpg"
+      },
+      {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091167/vriddhi/313422798_672173934471167_5353053668397946669_n_lhwmhi.jpg",
       },
       {
@@ -280,8 +347,75 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157725/vriddhi/313911139_671997661155461_5014518808981045190_n_ryl8sw.jpg",
       },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0236.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/DSC_0256.jpg"
+      },
     ],
     [
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6637.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6734.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7441.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7447.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Shivasish/IMG_7460.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0184.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swetlana/PSD_0190.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0061.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0066.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0076.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963771.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963785.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/1666969707716.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/1666969833881.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Swagat/IMG_20221028_204146-01.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0455.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0456.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0459.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Ashish%20Barik/_SMX0468.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0052-2-1.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091164/vriddhi/313399530_672174211137806_2473869583321684998_n_to56ov.jpg",
       },
@@ -309,11 +443,72 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/312827115_672175041137723_9081006197337464758_n_oplvaa.jpg",
       },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/313417829_672172467804647_4353764114949922526_n_fqs3vx.jpg",
-      },
+      
     ],
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/photo_2022-10-30_22-09-20.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6478.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6507.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6540.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6587.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%202/Arman/IMG_6636.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0078.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0105.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0111.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0113.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0116.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-31.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-32.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963666.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963708.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Sai%20kumar/1666974963744.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0057-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0065-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0073.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0083-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0154.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091162/vriddhi/313401932_672173041137923_522549174449123500_n_b3npgw.jpg",
       },
@@ -347,6 +542,69 @@ export default function SocietyGallery({ title }) {
     ],
     [
       {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%203/SHIKHAR/photo_2022-10-30_22-09-21.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0121.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0128.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0140.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0151.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0158.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0168.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0184.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0196.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0198.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/shreehitha/_SMX0199.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-26.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-27.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-28.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-29.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-30.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Milan%20grahacharjee/DSC_0190.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Pratyush/badminton-iiit.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/Pratyush/cork.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-24.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/vriddhi22/BADMINTON/DAY%201/SUNNY/vrd11-25.jpg"
+      },
+      {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679091160/vriddhi/312732078_672174011137826_5531301563542471114_n_iuddbe.jpg",
       },
       {
@@ -373,11 +631,89 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157726/vriddhi/313437391_671997934488767_869851903035814174_n_k0yebb.jpg",
       },
+      {
+        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679157723/vriddhi/313417829_672172467804647_4353764114949922526_n_fqs3vx.jpg",
+      },
     ],
   ];
 
   const nitrutsav = [
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0516.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0534.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0543.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0562.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0576.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0585.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0585.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0594.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0619.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0649.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0662-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0662.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0673.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0700.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0705.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0706.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0709.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0735.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0737.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0746.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0750.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0777.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0795.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0796.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Kudrat,Amreet,Aditi,Arun/CSM_0808.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099006/NU/51589913_2093169594095041_7199133806853357568_n_uezrcu.jpg",
       },
@@ -399,9 +735,9 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099001/NU/51182274_2094964613915539_8777619706442940416_n_jdevgo.jpg",
       },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099001/NU/51182274_2094964613915539_8777619706442940416_n_jdevgo.jpg",
-      },
+      // {
+      //   img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099001/NU/51182274_2094964613915539_8777619706442940416_n_jdevgo.jpg",
+      // },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099006/NU/51747373_2096499683762032_2167877621600223232_n_jjkxzu.jpg",
       },
@@ -423,11 +759,26 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098996/NU/27628554_1613945578684114_1069160744013059703_o_yyvfrm.jpg",
       },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098995/NU/12697416_959552314123447_271301524805459606_o_plh9se.jpg",
-      },
+      
+    
+        // {
+        //   img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0014-1.jpg"
+        // },
+         
     ],
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(1%20of%206).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(3%20of%206).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(4%20of%206).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Manideep/Nu%20(5%20of%206).jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099004/NU/51396432_2094871717258162_8694953143751933952_n_kxliiy.jpg",
       },
@@ -476,8 +827,140 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098996/NU/50722882_2094903827254951_5967876415209603072_n_tiv6yj.jpg",
       },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-1.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-10.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-11.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-12.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-13.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-15.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-16.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-14.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-17.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-18.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-19.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-21.jpg"
+      },
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-23.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-3.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-4.jpg"
+      },
+      // {
+      //   img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-5.jpg"
+      // },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-9.jpg"
+      },
+      
+       //42
+      
+      
     ],
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-6.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-7.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-9.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(14%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(15%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(16%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(17%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(18%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(19%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Anirudh/firstDay-22.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(2%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(20%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(21%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(23%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(24%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(25%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(26%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(27%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(28%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(3%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(4%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(6%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(7%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(8%20of%2028).jpg"
+      },
+      
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099006/NU/51632682_2096513963760604_1601628407446110208_n_toutni.jpg",
       },
@@ -542,8 +1025,40 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098999/NU/51078333_2094823220596345_7666022044990963712_n_dmnbml.jpg",
       },
-    ],
+      
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0006.jpg"
+      },
+    ], 
+
     [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0016-1.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0023-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0029-3.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0033-2.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0036-3.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0041-4.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0045-5.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0055-6.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Amreet/_SMX0062-7.jpg"
+      },
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679099003/NU/51357581_2094830900595577_5159491217083334656_n_pf4jcc.jpg",
       },
@@ -592,311 +1107,540 @@ export default function SocietyGallery({ title }) {
       {
         img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098996/NU/27788591_1613945458684126_8855358071648154556_o_kfd3lh.jpg",
       },
-    ],
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0460.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0462.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0467.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0474.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/DSC_0482.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0006.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0374.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0376.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0383.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0422.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Swagat/IMG_0498.jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(1%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(10%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(11%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(12%20of%2028).jpg"
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Nitrutsav/Day%201-20231102T112116Z-001/Day%201/Shreehitha/Nu%20(13%20of%2028).jpg"
+      },
+      {
+        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679098995/NU/12697416_959552314123447_271301524805459606_o_plh9se.jpg",
+      }, 
+    ], 
+    
+    
+    
+      
+    
   ];
 
   const cosmo = [
     [
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094547/cosmo/326801516_2137715769952076_6573928090331001421_n_iqwt7x.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-1.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094544/cosmo/326726993_1580746492399532_3659542357123065730_n_obyio3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-10.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094543/cosmo/326739735_602162055070560_2721702902245759038_n_eynypo.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-11.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326770670_1831279037228881_3574667790777756545_n_effzsz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-12.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326769113_1201297820762938_2959971467969655450_n_xzfwj3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-2.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326789574_856978982048869_4484573809603125309_n_amj8a3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-3.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094542/cosmo/326746657_1223675218572005_5342527622794320435_n_xdjsca.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-4.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094540/cosmo/326729925_1347304419398466_7515177636805732387_n_v4knrx.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-5.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094541/cosmo/326663617_455881003280805_1744622815671686395_n_sa1dku.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-6.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094540/cosmo/326688969_862533738364033_2157041159826493231_n_f9zmfq.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-8.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094540/cosmo/326593599_548722457301112_7021333885746268395_n_ydhhm5.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMO-9.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094539/cosmo/326567724_538390611586517_7792614186201883640_n_hginyj.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-1.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094520/cosmo/326250339_732422598312245_6061164052703152239_n_ocowx8.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-2.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094519/cosmo/326232441_504634421779082_522532710088932995_n_ujaceh.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-3.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094520/cosmo/326269303_896293468173603_697154942974703970_n_qsudue.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-4.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/10631074_719204874824860_3610820194899291912_o_byczcd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-5.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/941801_544307238981292_967884057_n_mdnowa.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-6.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/1400504_544307952314554_16409990_o_iyqire.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSMOC-7.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/12646_544307425647940_2090336337_n_xyaeol.jpg",
-      },
-    ],
-    [
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094539/cosmo/326681609_704262081415351_6880955639836155032_n_renzop.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094538/cosmo/326586771_1946512199013400_8249174499762068308_n_a24gaf.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094537/cosmo/326532969_1273196719904227_8522406070940327044_n_zs4xph.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094536/cosmo/326529293_591298389492841_8122153863078340666_n_qfmrfg.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094538/cosmo/326502368_701916558000183_950391606198679883_n_lgxrtv.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094537/cosmo/326566128_853646972580245_5870302530809331963_n_wjr2lb.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094536/cosmo/326551958_573846414670332_3220177084909985871_n_kkzok8.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094534/cosmo/326505291_566218035141743_8318004181118166838_n_w0y2e3.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/81829362_2725895184155809_5125368651104387072_n_wv5mzr.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094508/cosmo/46042391_1977935075618494_7534279287600316416_n_pklgec.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/14882117_1143342889077721_685590207079216243_o_qcp8l8.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094505/cosmo/14876653_1141894189222591_4655026734957743163_o_aqqum2.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094506/cosmo/45973439_1977930038952331_784724107328487424_n_rtpt5e.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094510/cosmo/82087834_2725889197489741_6433965858149629952_n_pmexut.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094508/cosmo/81981011_2730634570348537_8388299750197166080_n_smzzqe.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/81955381_2725883187490342_3229680037812764672_n_iksj61.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094509/cosmo/82131516_2730644453680882_6996409314667659264_n_drdyxn.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094506/cosmo/46002466_1977927952285873_188821811897565184_n_pllnll.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0016.jpg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094534/cosmo/326490759_1330091007843983_3991087101077979600_n_sphvaf.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0019.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094531/cosmo/326455338_873887243892776_848400655454152611_n_ixaoo2.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0024.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094532/cosmo/326486654_1194250984551022_3800299267019945416_n_e9h1ti.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0037.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094533/cosmo/326507790_1165321791021250_2455549064432274565_n_v34itc.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0037.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094530/cosmo/326477918_2028238864050903_4783392592172938304_n_pdi1da.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0042.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094530/cosmo/326477918_2028238864050903_4783392592172938304_n_pdi1da.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0054.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094530/cosmo/326416005_1269632120432027_2762369601528938227_n_fagaj3.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0054.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094510/cosmo/82191978_2730644947014166_8246715221276622848_n_smyooz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0061.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094509/cosmo/82071287_2725884917490169_4660738552152195072_n_mgpjk6.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0061.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094516/cosmo/325611970_3439601339630581_6512559757941330412_n_bqyzru.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0089.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094510/cosmo/82185813_2730640293681298_6995820736644382720_n_lmrztd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0099.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094515/cosmo/323419303_1376115612926984_5537123487566322802_n_v2170g.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0106.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094511/cosmo/82002182_2725902450821749_2517884994861400064_n_vleucd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0136.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094511/cosmo/82363003_2730633170348677_2814680253060874240_n_bnvgwb.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0136.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094518/cosmo/326223963_736574871227846_8760792837857279823_n_nkc4qu.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0142.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094511/cosmo/82550106_2730629590349035_7607416198329794560_n_pfgjhh.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0257.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094519/cosmo/326044037_742804423870192_9209480142822654084_n_l2olz7.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_CSM_0302.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094512/cosmo/82912661_2730636203681707_7850717127756480512_n_dlirsg.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0004.jpg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094526/cosmo/326365672_693501088924434_3601613321628606036_n_x9h7pg.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0020.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094529/cosmo/326405315_537616924999715_3825533483181036787_n_bllecs.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0023.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094507/cosmo/46057196_1977931378952197_5279753973568372736_n_tzenww.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0024.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094529/cosmo/326357268_1261025218094704_7942987106376326940_n_nr36kk.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0026.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094519/cosmo/326231104_1243266316534349_7350961641431276538_n_pfg6tf.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0035.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094527/cosmo/326363908_682763500210076_6548920936008751262_n_en08ie.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0048.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094526/cosmo/326387003_543489221073770_2396104022161292559_n_s0djkr.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0051.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094525/cosmo/326340271_894539271882586_7044149889241158111_n_xundxm.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0068.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0114.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094523/cosmo/326249313_888600562185648_429698947631548767_n_af4dte.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0116.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094523/cosmo/326354504_1297957934387369_6361623270098146158_n_etby3n.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0123.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0128.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094522/cosmo/326270864_862228068382704_274574866068352384_n_uruuzb.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0132.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094521/cosmo/326100359_521093463470075_2946804321443614666_n_n0fno2.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0141.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0147.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094521/cosmo/323712282_865021294781456_4675619626252051756_n_vrh60e.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0148.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094514/cosmo/83162421_2730648087013852_6291790728276213760_n_trbsp0.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0153.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0161.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094514/cosmo/83162421_2730648087013852_6291790728276213760_n_trbsp0.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0162.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094514/cosmo/323774420_717332726582006_6869407075916194237_n_wf3ee1.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-11-55-388.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094515/cosmo/325419865_1218097105459962_8737154895870162119_n_jqp4lz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0536.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094513/cosmo/323586630_964358334540662_3822545216048411725_n_prhias.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0550.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094515/cosmo/325613307_579356663563853_8627409365322328678_n_ys5tlz.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0653.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094517/cosmo/325932631_855885912363828_5331445811585354785_n_jr0l18.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0654.jpg",
       },
       {
-        img: "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679095751/cosmo/1956952_719062278172453_893854861070338010_o_iefwwl.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0668.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0675.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0678.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0680.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer__MG_0739.jpg",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_DSC_0163.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0627.jpg",
+      },
+
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0679.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0715.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_0774.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8672.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8684.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8791.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8822.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8822.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_8999.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9025.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9103.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9123.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9155.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9157.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9160.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9186.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9215.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9335.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9382.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9456.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_IMG_9506.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0468.jpg",
+      }, {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0478.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0545.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0557.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0559.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0564.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0582.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0642.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0740.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_NYX_0761.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-03-19-760.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-05-25-724.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Cosmo/jpeg-optimizer_Picsart_23-01-20_00-08-50-292.jpg",
       },
     ],
   ];
+
+
   const asme = [
     [
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932648/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.48_mwqnvx.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_2.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932648/Pictures%20for%20SAC/2_dnbsi1.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_3.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932645/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.47_k3trbn.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_4.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932645/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.49_ioaga4.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_5.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932645/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.500_jhfitz.jpg",
-      },
-    ],
-    [
-      {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932643/Pictures%20for%20SAC/3_gcihgk.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932640/Pictures%20for%20SAC/5_mo4ryp.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932638/Pictures%20for%20SAC/7_atzd52.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932638/Pictures%20for%20SAC/6_bolblq.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932645/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.50_dplmmi.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_6.jpg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932643/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.591_sib2et.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_7.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932643/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.592_usvl6o.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.47.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932643/Pictures%20for%20SAC/4_wlbhh0.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.48.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932643/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.25.00_cfdvkd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.49.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.50.jpg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932645/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.51_nb6tsa.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.500.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932644/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.511_ejgvmy.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.51.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932644/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.58_vih2n5.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.511.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/f_auto,q_70/v1694932644/Pictures%20for%20SAC/WhatsApp_Image_2023-09-01_at_17.24.584_haefmu.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.58.jpg",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.584.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.591.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.24.592.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/ASME%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-01%20at%2017.25.00.jpg",
       },
     ],
   ];
+
+  const ccube = [
+    [{
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/1.jpg",
+    },
+     {
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/10.jpg",
+     },
+     {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/11.jpeg",
+     },
+     {
+       img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/12.jpeg",
+     },
+    ],
+     [{
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/5.jpg",
+     },
+    {
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/13.jpg",
+    },
+    {
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/14.jpg",
+    },
+    {
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/15.jpg",
+    },
+    ],
+    [
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/16.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/2.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/3.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/4.jpg",
+      },
+
+    ],
+    [
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/6.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/7.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/8.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/9.jpg",
+      },
+      
+    ],
+  ];
+  const drillnbass=[
+     [{
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/IMG_0002.HEIC",
+     },
+     {
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/_BUN4263.ARW",
+     },
+     {
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/_BUN4273.ARW",
+     },
+     ],
+     [
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4753.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4776.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4786.jpeg",
+      },
+     ],[
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4741.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4807.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4869.jpeg",
+      },
+     ],
+     [
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_IMG_2323.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_IMUN-474.jpeg",
+      },
+     ],
+  ];
+
   
 
 const SDG = [
@@ -957,44 +1701,361 @@ const APS = [[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Fac
 {img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.29%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.30%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.31%20AM.jpeg"}
 ],[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.31%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.32%20AM%20(1).jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.32%20AM%20(1).jpeg"}]]
 
+
   const aiche = [
     [
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654682/WhatsApp_Image_2023-09-03_at_1.30.53_PM_ntsceq.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.48%20PM.jpeg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654681/WhatsApp_Image_2023-09-03_at_1.30.51_PM_uj2nxb.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.50%20PM.jpeg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654681/WhatsApp_Image_2023-09-03_at_1.30.48_PM_n5jydd.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.51%20PM.jpeg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654685/WhatsApp_Image_2023-09-03_at_1.30.55_PM_arh2pm.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.53%20PM.jpeg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654684/WhatsApp_Image_2023-09-03_at_1.30.55_PM_1_qnoebs.jpg",
-      },
-      {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654680/WhatsApp_Image_2023-09-03_at_1.30.50_PM_w0mso7.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.54%20PM.jpeg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654687/WhatsApp_Image_2023-09-03_at_1.37.43_PM_g6f8qs.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.55%20PM.jpeg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654686/WhatsApp_Image_2023-09-03_at_1.30.57_PM_bwned7.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.55%20PM%20(1).jpeg",
+      },
+
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.37.43%20PM.jpeg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/AICHE%20Event%20Photos/jpeg-optimizer_WhatsApp%20Image%202023-09-03%20at%201.30.57%20PM.jpeg",
+      },
+    ],
+  ];
+  const opencode = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_IMG20230807190143.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_IMG20230821185220.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_IMG20230821190501.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer__MG_2651.jpg",
       },
     ],
     [
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654684/WhatsApp_Image_2023-09-03_at_1.30.55_PM_1_qnoebs.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_IMG20230828191842.jpg",
       },
       {
-        img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654683/WhatsApp_Image_2023-09-03_at_1.30.54_PM_ueqfll.jpg",
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_IMG20230828192219.jpg",
       },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_WhatsApp%20Image%202023-08-11%20at%2010.32.05.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_hn_36.jpg",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_WhatsApp%20Image%202023-08-11%20at%2010.37.29%20(1).jpeg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_WhatsApp%20Image%202023-08-11%20at%2010.37.33.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_hn_29.jpg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_hn_35.jpg",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_WhatsApp%20Image%202023-08-11%20at%2010.37.36.jpeg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer__MG_2614.jpg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer__MG_2787.jpg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Open%20Code/jpeg-optimizer_hn_8-1.jpg",
+      },
+
+    ],
+  ];
+  const matrix = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_IMG_20230318_175514270.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_Screenshot%202023-08-09%20233417.png",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_Screenshot%202023-08-09%20233644.png",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_WhatsApp%20Image%202023-08-09%20at%203.16.56%20PM.jpeg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_WhatsApp%20Image%202023-08-09%20at%203.50.24%20PM.jpeg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_WhatsApp%20Image%202023-08-09%20at%2011.26.34%20PM.jpeg",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_post.png",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_Youtube%201.png",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_Screenshot%202023-08-09%20233719.png",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_Youtube%203.png",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/Matrix%20Club/jpeg-optimizer_Youtube.png",
+      },
+    ],
+    
+  ];
+
+  const odiyaSahityaSamaj = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_20230401_160531.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_20230401_173906.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_DSC_3379-1.JPG",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_DSC_6102.JPG",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_DSC_6127.JPG",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_DSC_6208.JPG",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_DSC_6251.JPG",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_DSC_6273-2.JPG",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_DSC_6336.JPG",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_IMG-20230122-WA0024(1).jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_IMG-20230123-WA0025(1)-1.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_IMG_20221115_183304.jpg",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_IMG_20221115_184541.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_IMG_20221115_190214.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_IMG_20221116_191647-1.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/odiya-sahitya-samaj/jpeg-optimizer_IMG_20230304_122110.jpg",
+      },
+    ],
+    
+  ];
+
+  const pantomime = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_335720313_726419848922886_6753435167746668257_n.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_DSC_0679.JPG",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_DSC_4757.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_1431.JPG",
+      },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_1560.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_1775.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_1826.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_1928.jpg",
+      },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_1947.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_7008.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_7012.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_7125.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_IMG_7168.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_MRT_0219-110.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_NYX_4661-4.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/pantomime-images/jpeg-optimizer_SMXsme-17.jpg",
+    },
+    ],
+  ];
+
+
+  const udaan = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%201000004670.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%2020230118_181742.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20Copy%20of%20IMG-20230718-WA0009.jpg",
+      },
+
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20Copy%20of%20IMG20230716151507.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG-20230317-WA0022.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG-20230627-WA0064.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG-20230725-WA0017.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG_20221114_150439.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20IMG_20230117_185302.jpg",
+    },
+    ],
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20UDN1.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20UDN8.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/udaan/jpeg-optimizer_Copy%20of%20WhatsApp%20Image%202022-11-16%20at%2011.41.41%20AM.jpeg",
+      },
+
+    ],
+
+  ];
+
+  const rotaract = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_20221030_170833.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20220810103604.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20220815095635.jpg",
+      },
+
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20220815095945.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20221113152108.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG20221114132243.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230408_103512483.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230408_104419.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230408_105800175.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230830_122954.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230830_124440.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_IMG_20230830_215104.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/rotaract-images/jpeg-optimizer_Screenshot%202023-09-03%20220529.png",
+    },
+
     ],
 
   ];
@@ -1007,6 +2068,38 @@ const APS = [[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Fac
 
    ]
 
+  const shortCurcuit = [
+    [
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693650915483.jpg",
+      },
+      {
+        img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693650964831.jpg",
+      },
+
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651049493.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651049499.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651209228.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651291112.jpg",
+    },
+    ],
+    [{
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer__storage_emulated_0_MIUI_Gallery_cloud_.cache_.share_.securityshare_temp_files_1693651291106.jpg",
+    },
+    {
+      img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/shortcircuit/jpeg-optimizer_1693651209228.jpg",
+    },
+    ],
+  ]
   let data1 = inno;
 
   if (title === "Technical Society") {
@@ -1027,6 +2120,34 @@ const APS = [[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Fac
   } else if (title == "AICHE") {
     title = "";
     data1 = aiche;
+
+  }
+  else if (title == "UDAAN") {
+    title = "";
+    data1 = udaan;
+  } else if (title == "ROTRACT") {
+    title = "";
+    data1 = rotaract;
+  } else if (title == "SHORTCURCUIT") {
+    title = "";
+    data1 = shortCurcuit;
+  
+
+  } else if (title == "Odiya Sahitya Samaj") {
+    title = "";
+    data1 = odiyaSahityaSamaj;
+  } else if (title == "Pantomime") {
+    title = "";
+    data1 = pantomime;
+  
+
+  } else if (title == "CCUBE") {
+    title = "ccube";
+    data1 = ccube;
+  }else if (title == "Drill n Bass") {
+    title = "drillnbass";
+    data1 = drillnbass;
+  
    } else if (title == "SDG Campus Club") {
       title = "";
       data1 = SDG;
@@ -1039,6 +2160,9 @@ const APS = [[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Fac
 
 
   else{
+
+
+
     title = "";
     data1 = socGalleryData;
   }
