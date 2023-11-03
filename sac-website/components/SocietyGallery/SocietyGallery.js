@@ -996,7 +996,16 @@ const APS = [[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Fac
         img: "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697654683/WhatsApp_Image_2023-09-03_at_1.30.54_PM_ueqfll.jpg",
       },
     ],
+
   ];
+   const threeD = [
+[{}],
+[],
+[],
+[]
+
+
+   ]
 
   let data1 = inno;
 
