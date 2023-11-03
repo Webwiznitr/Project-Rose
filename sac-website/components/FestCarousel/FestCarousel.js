@@ -42,18 +42,7 @@ export default function SocietyCarousel({
         </button>
       </div>
 
-      {/* <div className="absolute bottom-4 right-0 left-0">
-        <div className="flex items-center justify-center gap-2">
-          {data.map((_, i) => (
-            <div
-              className={`
-              transition-all w-3 h-3 bg-white rounded-full
-              ${curr === i ? "p-2" : "bg-opacity-50"}
-            `}
-            />
-          ))}
-        </div>
-      </div> */}
+      
     </div>
   )
 }

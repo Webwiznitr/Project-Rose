@@ -29,11 +29,7 @@ const FestCarousel = ({ name, category, desc, link, img }) => {
                 src={img}
                 alt="img"
               />
-              {/* <img
-                className="xl:h-full sm:h-[50vh]  md:h-full sm:w-[98vw]  object-cover  h-[50vh] "
-                src={img}
-                alt="img"
-              /> */}
+              
             </div>
           </div>
         </div>
