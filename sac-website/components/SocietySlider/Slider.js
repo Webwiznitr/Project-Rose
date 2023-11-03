@@ -9,9 +9,10 @@ export default function Slider() {
   const [carousel, setCarousel] = useState(data);
 
   return (
-    // <div className='w-screen h-[100vh] max-[500px]:h-[65vh] test'>
+    <div className="mobile-hide">
+
     <Fade direction="up" triggerOnce="true">
-      <div className="flex flex-col w-full h-full shadow-2xl	py-2 bg-black" style={{
+      <div className="flex flex-col w-full h-full shadow-2xl	py-2 bg-black " style={{
         WebkitBoxShadow:"0px 0px 187px 20px rgba(0,0,0,0.9) inset",
         MozBoxShadow: "0px 0px 187px 20px rgba(0,0,0,0.9) inset",
         boxShadow: "0px 0px 187px 20px rgba(0,0,0,0.9) inset",
@@ -31,6 +32,6 @@ export default function Slider() {
       </div>
       </div>
     </Fade>
-     
+    </div>
   );
 }
