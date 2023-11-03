@@ -679,124 +679,123 @@ const clubData = [
   },
   {
     index: 25,
-    clubName: "Cognizen",
-    clubSociety: "Literary and Cultural Society",
-    clubTagline: "Inspiring Minds",
-    clubDescription:
-      "Cognizen is the official MUN forum of NIT Rourkela. It stands as the economic and political forum of the college and has been actively working on various sectors in line with the aim of the club. Our regular initiatives and events aim to spread political and economic awareness among people.",
-    clubFoundation: 2012,
-    clubInstagram: "https://www.instagram.com/cognizen_club/",
-    clubLinkedin:
-      "https://www.linkedin.com/company/cognizen-club-nit-rourkela/?viewAsMember=true",
-    clubFacebook: "https://www.facebook.com/cognizen.nitrkl",
-    clubTwitter: "https://twitter.com/Cognizen_nitr",
-    clubLogo:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1678968572/cognizen_logo-1_-_Akankshya_Dash_yfwktv.png",
-    clubMembers: 80,
-    clubFacad: "Dr Mahendra Chinthalla",
-    clubFacadMob: "+91 96555 75685",
-    clubDocccc:
-      "https://docs.google.com/spreadsheets/d/1e2gKKEaGezEINCSdZ2JMoUafYvoDP64Lig8uurRvolU/edit?usp=sharing",
-    clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137904/ClubGroupPhoto/Club_Photos_Cognizen_-_Akankshya_Dash_qgp70p.jpg",
-    clubEB: [
-      ["President", "Akankshya Dash", "77359 08838"],
-      ["Vice-President", "Atharva Mahesh Anturkar", "93700 46097"],
-      ["Secretary", "Suman Kumar Mishra", "78488 02390"],
-      ["Treasurer", "Anwesh Kumar Panigrahi", "88950 74720"],
-      ["Head of Design", "Arpit Subhankar Pati", "95568 58268"],
-    ],
-  },
-  {
-    index: 26,
-    clubName: "IIChE r",
-    clubSociety: "Technical Society",
-    clubTagline: "Advancing the Chemical Engineering Frontier in India",
-    clubDescription:
-      "The IIChE (Indian Institute of Chemical Engineers) NIT Rourkela chapter aims to promote chemical engineering through academic research and provide a platform for students to network and develop their professional skills. The chapter organizes technical workshops, seminars, industrial visits, and other events to promote student knowledge sharing and learning.",
-    clubFoundation: 2018,
-    clubInstagram: "https://www.instagram.com/iiche_nitr/",
-    clubLinkedin: "https://www.linkedin.com/company/iichenitr/",
-    clubFacebook: "https://www.facebook.com/IIChENITR/",
-    clubLogo:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1678968576/Logo_-_Sagar_Mangaraj_dckk75.png",
-    clubMembers: 47,
-    clubFacad: "Prof. Suverna Trivedi",
-    clubFacadMob: 9451811492,
-    clubDocccc:
-      "https://docs.google.com/spreadsheets/d/1idx2BqfQv5oo8LrZgoEEFJQbEyMbZzd_rAFq9HUnGSs/edit#gid=0",
-    clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137937/ClubGroupPhoto/Group_Photo_-_Sagar_Mangaraj_ooah5c.jpg",
-    clubEB: [
-      ["President", "Nalin Kumar", "9635985263"],
-      ["Vice-President", "Buddharatna B. Hingole", "9145137116"],
-      ["Secretary", "Sagar Mangaraj", "7400880837"],
-      ["Treasurer", "Saswata Tripathy", "8260414013"],
-      ["Content Head", "Rayavarapu Venkata Sai Lokesh", "9392635567"],
-      ["Design Head", "Chetan Padvi", "9921965347"],
-      ["Technical Head", "Chikati Sai Varsith", "9392871018"],
-    ],
-  },
-  {
-    index: 27,
-    clubName: "Degree361",
-    clubSociety: "Literary and Cultural Society",
-    clubTagline: "Imagine. Create. Soar.",
-    clubDescription:
-      "Degree 361 aims at being the creative and candid platform that every NITRian relates with. Along with publishing the annual student magazine of NITR, we provide dynamic opportunities to the writers and designers among the NITR junta to bring out their best original content for our readers.",
-    clubFoundation: 2011,
-    clubInstagram: "instagram.com/d361official",
-    clubLinkedin: "linkedin.com/company/degree361mag",
-    clubFacebook: "facebook.com/shout.d361",
-    clubLogo:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094235/Group_18124_gdzzgd.png",
-    clubMembers: 20,
-    clubFacad: "Prof. Anwesha Sengupta",
-    clubFacadMob: 9432187482,
-    clubDocccc:
-      "https://docs.google.com/spreadsheets/d/1BOVd3ULCQP3ypOkOhSx2WX4ajnlq8REsCBsfoEkjjGs/edit?usp=sharing",
-    clubEB: [
-      ["Editor-In-Chief", "Arpit Subhankar Pati", "9556858268"],
-      ["Editor-In-Chief", "Sashank VSL", "7893501625"],
-      ["Design Head", "Rushali Kumari", "6204301675"],
-      ["Creative Head", "Subhamshree Sahoo", "8480223195"],
-    ],
-  },
-  {
-    index: 28,
-    clubName: "Pantomime",
-    clubSociety: "Film and Music Society",
-    clubTagline: "Life is a stage",
-    clubDescription:
-      'Pantomime, founded in 2008, is the official dramatics club of National Institute of Technology, Rourkela. Started by some of the dramatic enthusiasts alumni of the institute, it has grown over the years to be one of the most vigorous, vital, dynamic, and successful club of the institute. The working area of the club spans a variety of theatrical and street forms.\nMimes, short films, stage plays, and street plays (Nukkad) are some of the art forms performed by the club in various festivals, functions, and competitions. Meaning of the word "PANTOMIME" in Latin means "imitator," and even this meaning stands close to the actual working of the club as drama is nothing but the imitation of actual human life.',
-    clubFoundation: 2008,
-    clubInstagram: "https://instagram.com/pantomime.nitr",
-    clubLinkedin: "https://www.linkedin.com/company/pantomime-nit-rourkela",
-    clubFacebook: "https://www.facebook.com/drama.club.nitrkl",
-    clubLogo:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679095515/Group_18132_utauci.png",
-    clubMembers: 105,
-    clubFacad: "Dr Srinivasan Muthuswamy",
-    clubFacadMob: 9621429923,
-    clubDocccc:
-      "https://docs.google.com/spreadsheets/d/1jqfeqOsFw49pttvJ4pb7hws8nPcvdcN2yPw9szOajsY/edit?usp=drivesdk",
-    clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138243/ClubGroupPhoto/IMG_7068_-_Ankush_Lohani_pjhnlb.jpg",
-    clubEB: [
-      ["President", "Ankush Lohani", "8107810784"],
-      ["Vice President", "Sayambika Das", "9438150363"],
-      ["Director", "Rishabh Singh", "9076862749"],
-      ["Director", "Trigunaditya Panda", "9668064857"],
-      ["Director", "Rashmi Ranjan Jena", "8917324497"],
-      ["Music Director", "Amrit Kalash", "9523110957"],
-      ["Technical Head", "Ayush Kumar Pathak", "6201187465"],
-      ["Secretary", "Siddharth Singh", "8889310043"],
-      ["Secretary", "Sai Ashish Anshuman", "9178967267"],
-      ["Manager", "Isha Panhale", "8450953029"],
-      ["Manager", "Kruti Deepa Behera", "6371321590"],
-      ["Treasurer", "Parth Shah", "6261679788"],
-    ],
-  },
+        clubName: "Cognizen",
+        clubSociety: "Literary and Cultural Society",
+        clubTagline: "Inspiring Minds",
+        clubDescription:
+          "Cognizen is the official MUN forum of NIT Rourkela. It stands as the economic and political forum of the college and has been actively working on various sectors in line with the aim of the club. Our regular initiatives and events aim to spread political and economic awareness among people.",
+        clubFoundation: 2012,
+        clubInstagram: "https://www.instagram.com/cognizen_club/",
+        clubLinkedin:
+          "https://www.linkedin.com/company/cognizen-club-nit-rourkela/?viewAsMember=true",
+        clubFacebook: "https://www.facebook.com/cognizen.nitrkl",
+        clubTwitter: "https://twitter.com/Cognizen_nitr",
+        clubLogo:
+          "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1678968572/cognizen_logo-1_-_Akankshya_Dash_yfwktv.png",
+        clubMembers: 80,
+        clubFacad: "Dr Mahendra Chinthalla",
+        clubFacadMob: "+91 96555 75685",
+        clubDocccc:
+          "https://docs.google.com/spreadsheets/d/1e2gKKEaGezEINCSdZ2JMoUafYvoDP64Lig8uurRvolU/edit?usp=sharing",
+        clubGroupPhoto:
+          "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137904/ClubGroupPhoto/Club_Photos_Cognizen_-_Akankshya_Dash_qgp70p.jpg",
+        clubEB: [
+          ["President", "Paras Mahalik", "121bt0030@nitrkl.ac.in"],
+          ["Vice-President", "Shubham Yadav", "121bt0738@nitrkl.ac.in"],
+          ["Secretary", "Nilesh Kumar", "121ce1011@nitrkl.ac.in"],
+          ["Treasurer", "Sahil Kumar", "121ce0050@nitrkl.ac.in"],
+        ],
+      },
+      {
+        index: 26,
+        clubName: "IIChE r",
+        clubSociety: "Technical Society",
+        clubTagline: "Advancing the Chemical Engineering Frontier in India",
+        clubDescription:
+          "The IIChE (Indian Institute of Chemical Engineers) NIT Rourkela chapter aims to promote chemical engineering through academic research and provide a platform for students to network and develop their professional skills. The chapter organizes technical workshops, seminars, industrial visits, and other events to promote student knowledge sharing and learning.",
+        clubFoundation: 2018,
+        clubInstagram: "https://www.instagram.com/iiche_nitr/",
+        clubLinkedin: "https://www.linkedin.com/company/iichenitr/",
+        clubFacebook: "https://www.facebook.com/IIChENITR/",
+        clubLogo:
+          "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1678968576/Logo_-_Sagar_Mangaraj_dckk75.png",
+        clubMembers: 47,
+        clubFacad: "Prof. Suverna Trivedi",
+        clubFacadMob: 9451811492,
+        clubDocccc:
+          "https://docs.google.com/spreadsheets/d/1idx2BqfQv5oo8LrZgoEEFJQbEyMbZzd_rAFq9HUnGSs/edit#gid=0",
+        clubGroupPhoto:
+          "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137937/ClubGroupPhoto/Group_Photo_-_Sagar_Mangaraj_ooah5c.jpg",
+        clubEB: [
+          ["President", "Rudra Narayan Barik", "721ch1017@nitrkl.ac.in"],
+          ["Vice-President", "Sunnapu Dhiraj", "121ch0887@nitrkl.ac.in"],
+          ["Secretary", "Amritanshu Saraswat", "721ch1020@nitrkl.ac.in"],
+          ["Treasurer", "Aman Tiwari", "121ch0891@nitrkl.ac.in"],
+          ["Content Head", "Satyaranjan Sahoo", "721ch1022@nitrkl.ac.in"],
+          ["Design Head", "Pasupathi Nad Seggam", "121ch0884@nitrkl.ac.in"],
+          ["Technical Head", "Sachin Munda", "121ch0093@nitrkl.ac.in"],
+        ],
+      },
+      {
+        index: 27,
+        clubName: "Degree361",
+        clubSociety: "Literary and Cultural Society",
+        clubTagline: "Imagine. Create. Soar.",
+        clubDescription:
+          "Degree 361 aims at being the creative and candid platform that every NITRian relates with. Along with publishing the annual student magazine of NITR, we provide dynamic opportunities to the writers and designers among the NITR junta to bring out their best original content for our readers.",
+        clubFoundation: 2011,
+        clubInstagram: "instagram.com/d361official",
+        clubLinkedin: "linkedin.com/company/degree361mag",
+        clubFacebook: "facebook.com/shout.d361",
+        clubLogo:
+          "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679094235/Group_18124_gdzzgd.png",
+        clubMembers: 20,
+        clubFacad: "Prof. Anwesha Sengupta",
+        clubFacadMob: 9432187482,
+        clubDocccc:
+          "https://docs.google.com/spreadsheets/d/1BOVd3ULCQP3ypOkOhSx2WX4ajnlq8REsCBsfoEkjjGs/edit?usp=sharing",
+        clubEB: [
+          ["Editor-In-Chief", "Arpit Subhankar Pati", "9556858268"],
+          ["Editor-In-Chief", "Sashank VSL", "7893501625"],
+          ["Design Head", "Rushali Kumari", "6204301675"],
+          ["Creative Head", "Subhamshree Sahoo", "8480223195"],
+        ],
+      },
+      {
+        index: 28,
+        clubName: "Pantomime",
+        clubSociety: "Film and Music Society",
+        clubTagline: "Life is a stage",
+        clubDescription:
+          'Pantomime, founded in 2008, is the official dramatics club of National Institute of Technology, Rourkela. Started by some of the dramatic enthusiasts alumni of the institute, it has grown over the years to be one of the most vigorous, vital, dynamic, and successful club of the institute. The working area of the club spans a variety of theatrical and street forms.\nMimes, short films, stage plays, and street plays (Nukkad) are some of the art forms performed by the club in various festivals, functions, and competitions. Meaning of the word "PANTOMIME" in Latin means "imitator," and even this meaning stands close to the actual working of the club as drama is nothing but the imitation of actual human life.',
+        clubFoundation: 2008,
+        clubInstagram: "https://instagram.com/pantomime.nitr",
+        clubLinkedin: "https://www.linkedin.com/company/pantomime-nit-rourkela",
+        clubFacebook: "https://www.facebook.com/drama.club.nitrkl",
+        clubLogo:
+          "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679095515/Group_18132_utauci.png",
+        clubMembers: 105,
+        clubFacad: "Dr Srinivasan Muthuswamy",
+        clubFacadMob: 9621429923,
+        clubDocccc:
+          "https://docs.google.com/spreadsheets/d/1jqfeqOsFw49pttvJ4pb7hws8nPcvdcN2yPw9szOajsY/edit?usp=drivesdk",
+        clubGroupPhoto:
+          "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138243/ClubGroupPhoto/IMG_7068_-_Ankush_Lohani_pjhnlb.jpg",
+        clubEB: [
+          ["President", "Priyanshu Hota", "8107810784"],
+          ["Vice President", "Omkar Amlan Krishna", "9438150363"],
+          ["Director", "Rishabh Singh", "9076862749"],
+          ["Director", "Trigunaditya Panda", "9668064857"],
+          ["Director", "Rashmi Ranjan Jena", "8917324497"],
+          ["Music Director", "Amrit Kalash", "9523110957"],
+          ["Technical Head", "Ayush Kumar Pathak", "6201187465"],
+          ["Secretary", "Pratham Asati", "8889310043"],
+          ["Manager", "Isha Panhale", "8450953029"],
+          ["Manager", "Kruti Deepa Behera", "6371321590"],
+          ["Treasurer", "Parth Shah", "6261679788"],
+        ],
+    },
+        
   {
     index: 29,
     clubName: "VOICE OF VOICELESS",
