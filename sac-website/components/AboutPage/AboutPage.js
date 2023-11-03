@@ -91,7 +91,7 @@ Diverse research shows that the NITR student community is continually engaged an
       />
       {/* <DeanSpeaks data="Vision" /> */}
 
-      <h1 className="w-[100%] text-3xl font-[600] p-4 text-center ">
+      {/* <h1 className="w-[100%] text-3xl font-[600] p-4 text-center ">
         Executive Body
       </h1>
       <div className="grid grid-cols-[24vw_24vw] place-content-center gap-x-[10vw] pt-[2rem] gap-y-[10vh] pb-[1rem] max-[600px]:grid-cols-[80vw] ">
@@ -124,10 +124,10 @@ Diverse research shows that the NITR student community is continually engaged an
             </div>
           );
         })}
-      </div>
+      </div> */}
 
       {/* class  in society gallery.css */}
-      <div className="grid grid-cols-[24vw_24vw_24vw] place-content-center gap-x-[10vw] pt-[2rem] gap-y-[10vh] pb-[2rem] max-[600px]:grid-cols-[80vw]">
+      {/* <div className="grid grid-cols-[24vw_24vw_24vw] place-content-center gap-x-[10vw] pt-[2rem] gap-y-[10vh] pb-[2rem] max-[600px]:grid-cols-[80vw]">
         {representative2.map((item, index) => {
           return (
             <div key={index} className="">
@@ -157,7 +157,7 @@ Diverse research shows that the NITR student community is continually engaged an
             </div>
           );
         })}
-      </div>
+      </div> */}
 
       {/* Group Photo */}
 

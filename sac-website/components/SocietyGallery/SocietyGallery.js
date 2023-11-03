@@ -897,6 +897,168 @@ export default function SocietyGallery({ title }) {
       },
     ],
   ];
+
+  const ccube = [
+    [{
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/1.jpg",
+    },
+     {
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/10.jpg",
+     },
+     {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/11.jpeg",
+     },
+     {
+       img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/12.jpeg",
+     },
+    ],
+     [{
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/5.jpg",
+     },
+    {
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/13.jpg",
+    },
+    {
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/14.jpg",
+    },
+    {
+      img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/15.jpg",
+    },
+    ],
+    [
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/16.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/2.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/3.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/4.jpg",
+      },
+
+    ],
+    [
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/6.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/7.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/8.jpg",
+      },
+      {
+        img :"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/c-cube-images/9.jpg",
+      },
+      
+    ],
+  ];
+  const drillnbass=[
+     [{
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/IMG_0002.HEIC",
+     },
+     {
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/_BUN4263.ARW",
+     },
+     {
+      img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/_BUN4273.ARW",
+     },
+     ],
+     [
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4753.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4776.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4786.jpeg",
+      },
+     ],[
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4741.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4807.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_9DS_4869.jpeg",
+      },
+     ],
+     [
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_IMG_2323.jpeg",
+      },
+      {
+        img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/drill-n-bass/jpeg-optimizer_IMUN-474.jpeg",
+      },
+     ],
+  ];
+
+  
+
+const SDG = [
+[{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_308755719_3240311829574740_7208533148376851679_n.jpeg"
+
+},
+{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_316492277_140334782117756_1354320908597051238_n.png"
+},
+{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_330276666_728932698598083_7021359176395903636_n.png"
+},
+{
+img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_340032561_1010147423295033_2712933600584391209_n.webp"
+},
+{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_340032561_1010147423295033_2712933600584391209_n.webp"
+}],[
+{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_340333275_158415173514831_3828364104549625779_n.webp"
+},{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_340512512_1325391438028212_8949952019411554519_n.webp"
+},
+{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG-20220828-WA0014.jpg"
+},{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG-20231016-WA0031.jpg"
+},
+{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG-20231016-WA0035.jpg"}
+],[
+{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG-20231016-WA0037.jpg"},
+{img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG-20231016-WA0041.jpg"},
+{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG-20231016-WA0044.jpg"},{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG-20231016-WA0045.jpg"
+},{
+  img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG_20221112_175348.jpg"
+}
+],[
+{ img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG_5109.jpg" },
+{
+img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_IMG_5324.jpg"
+},{
+img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_PSD_0187.jpg"
+},
+{
+img: "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer_PSD_0218.jpg"
+},{
+img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/SDG/jpeg-optimizer__MG_4361.jpg"
+}
+]
+]
+const APS = [[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.16.38%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.16.39%20AM%20(1).jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.16.39%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.16.40%20AM.jpeg"}
+
+],[
+{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.18.32%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.18.49%20AM%20(1).jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.30%20AM%20(1).jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.30%20AM%20(2).jpeg"}
+],[
+{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.29%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.30%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.31%20AM.jpeg"}
+],[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.31%20AM.jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.32%20AM%20(1).jpeg"},{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Facad/APS/jpeg-optimizer_WhatsApp%20Image%202023-09-04%20at%2012.27.32%20AM%20(1).jpeg"}]]
+
+
   const aiche = [
     [
       {
@@ -1076,13 +1238,36 @@ export default function SocietyGallery({ title }) {
   } else if (title == "AICHE") {
     title = "";
     data1 = aiche;
+
   } else if (title == "Odiya Sahitya Samaj") {
     title = "";
     data1 = odiyaSahityaSamaj;
   } else if (title == "Pantomime") {
     title = "";
     data1 = pantomime;
-  } else {
+  
+
+  } else if (title == "CCUBE") {
+    title = "ccube";
+    data1 = ccube;
+  }else if (title == "Drill n Bass") {
+    title = "drillnbass";
+    data1 = drillnbass;
+  
+   } else if (title == "SDG Campus Club") {
+      title = "";
+      data1 = SDG;
+    } else if (title == "APS") {
+      title = "";
+      data1 = APS;} 
+      else if (title == "Heart to Heart") {
+        title = "";
+        data1 = HeartHeart;} 
+
+
+  else{
+
+
     title = "";
     data1 = socGalleryData;
   }

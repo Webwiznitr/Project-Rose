@@ -7,21 +7,22 @@ export default function SocietyRepresentative({ data = "SAC Officials" }) {
   const representative1 = [
     {
       officialsImage:
-        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
-
-      name: "Prof. Rajeev Kumar Panda",
-      designation: "President",
-    },
-    {
-      officialsImage:
 
 
-        "https://res.cloudinary.com/du3uvgzdr/image/upload/v1697693816/Screenshot_2023-10-19_at_11.06.48_AM_tojdfv.png",
+        "https://res.cloudinary.com/du3uvgzdr/image/upload/v1698970558/Screenshot_2023-11-03_at_5.45.38_AM_gdqdrv.png",
 
       name: "Prof. Sidhartha S. Jena",
 
       designation: "Dean",
     },
+    {
+      officialsImage:
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
+
+      name: "Prof. Rajeev Kumar Panda",
+      designation: "President",
+    },
+    
     // {
     //   officialsImage:
     //     "https://ik.imagekit.io/gourab18/ps.jpg?updatedAt=1678788056792",
@@ -76,8 +77,8 @@ export default function SocietyRepresentative({ data = "SAC Officials" }) {
 
     {
       officialsImage:
-        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697660892/manavatar_z7rrut_n5fnbm.jpg",
-      name: "Not Available",
+        "https://res.cloudinary.com/du3uvgzdr/image/upload/v1698970848/1201379_vh4wkf.jpg",
+      name: "Kumud Kant Mehta",
 
       designation: "Vice-President, Film and Music Society",
     },
@@ -89,28 +90,28 @@ export default function SocietyRepresentative({ data = "SAC Officials" }) {
     },
   ];
 
-  const representative3 = [
-    {
-      officialsImage:
-        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697660892/manavatar_z7rrut_n5fnbm.jpg",
-      name: "Rajendra Kar",
-      designation: "SAS Officer",
-    },
-    {
-      officialsImage:
-        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697660892/manavatar_z7rrut_n5fnbm.jpg",
+  // const representative3 = [
+  //   {
+  //     officialsImage:
+  //       "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697660892/manavatar_z7rrut_n5fnbm.jpg",
+  //     name: "Rajendra Kar",
+  //     designation: "SAS Officer",
+  //   },
+  //   {
+  //     officialsImage:
+  //       "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697660892/manavatar_z7rrut_n5fnbm.jpg",
 
-      name: "Nalini Nihar Nayak",
-      designation: "SAS Officer",
-    },
-    {
-      officialsImage:
-        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697660892/manavatar_z7rrut_n5fnbm.jpg",
+  //     name: "Nalini Nihar Nayak",
+  //     designation: "SAS Officer",
+  //   },
+  //   {
+  //     officialsImage:
+  //       "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697660892/manavatar_z7rrut_n5fnbm.jpg",
 
-      name: "T R Pattnaik",
-      designation: "SAS Officer",
-    },
-  ];
+  //     name: "T R Pattnaik",
+  //     designation: "SAS Officer",
+  //   },
+  // ];
 
   return (
     <div className="w-screen ">
@@ -175,7 +176,7 @@ export default function SocietyRepresentative({ data = "SAC Officials" }) {
           })}
         </div>
 
-        <div className="w-[100%]  grid grid-cols-[22vw_22vw_22vw] gap-x-[8vw] place-content-center max-[950px]:grid-cols-[80vw]">
+        {/* <div className="w-[100%]  grid grid-cols-[22vw_22vw_22vw] gap-x-[8vw] place-content-center max-[950px]:grid-cols-[80vw]">
           {representative3.map((item, index) => {
             return (
               <div
@@ -188,11 +189,7 @@ export default function SocietyRepresentative({ data = "SAC Officials" }) {
                     alt="officialsImage"
                     className="w-[100%] h-[100%] rounded-[100%] object-cover"
                   />
-                  {/* <img
-                    src={item.officialsImage}
-                    alt="officialsImage"
-                    className="w-[100%] h-[100%] rounded-[100%] object-cover"
-                  /> */}
+                  
                 </div>
 
                 <h2 className="font-bold text-lg">{item.name}</h2>
@@ -200,7 +197,7 @@ export default function SocietyRepresentative({ data = "SAC Officials" }) {
               </div>
             );
           })}
-        </div>
+        </div> */}
       </Fade>
     </div>
   );
