@@ -15,7 +15,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1tjfgKwTEH068SkRO6KLHfiXh5JmdZzhAULNxEB4j04s/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679066856/ClubGroupPhoto/opencode_2021-22_-_Swatishree_Mahapatra_aiqr94.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_opencode.jpeg",
     clubEB: [
       ["President", "Swatishree Mahapatra", "9348257557"],
       ["Vice President", "Ratnakar Sahoo", "9178842858"],
@@ -42,7 +42,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1V4inmYAXBDcZJwErd_Ay8D_gHDzKuwgPSZV2f9R43Mk/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679066821/ClubGroupPhoto/APS_EB_Pic_-_Abhijit_Panda_e3n095.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_aps.jpg",
     clubEB: [
       ["President", "Dablu Saha", "7064718446"],
       ["Vice President", "Abhijit Panda", "7848957529"],
@@ -73,7 +73,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1-4Lu9Tdi3Es5xNdWNC_V8gcvcQG3hsdD39Es_xkNhxo/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679066925/ClubGroupPhoto/InCerS_Club_Members_-_InCerS_NITR_tsx5r7.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_Incers.jpg",
     clubEB: [
       ["Chairperson", "Deepsikha Brahma", "6371166807"],
       ["Vice-Chairperson", "Partha Mishra", "9861339236"],
@@ -105,7 +105,7 @@ const clubData = [
     clubDocccc:
       "https://drive.google.com/drive/folders/1NUgq2GTKSTAAuOgCYBRPO787yU9J2_Kp?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679066977/ClubGroupPhoto/sae_united_-_Puneeth_Param_Senapati_ntc6zr.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_sae.jpg",
     clubEB: [
       ["President", "Satyajeet Sahoo", "9668150260"],
       ["Vice-President", "Swagatika Jena", "6370446871"],
@@ -132,7 +132,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/17bY3dkgi1lXGIh5JZjFQmbo3R5Agvr8oy2iZnU_3_mM/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679067074/ClubGroupPhoto/IMG20230301181555_-_Aspirants_NITR_yno9jj.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_Aspirants-NITR.jpg",
     clubEB: [
       ["President", "Rittwik Devdatta Das", "7978117118"],
       ["Vice-President", "Manali MIshra", "7008755671"],
@@ -164,7 +164,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1CyV_1VkRcgUX52oWVMsf_uc8JJHZzF9POzHdlncyLBs/edit#gid=0",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679067189/ClubGroupPhoto/3E_Group_Pic_-_Md_Kudratullah_bznj5b.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_third-eye.jpg",
     clubEB: [
       ["President", "Priyanshu Das", "9337991462"],
       ["Vice-President", "Abhinov Mohanta", "8249811436"],
@@ -190,7 +190,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1BQUNTL1Un1LMvqom309PuFJxjiWfSIENFWpnnpZFx6g/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679136581/group_photo_rotaract_-_Maya_Yadav_mspkax.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_rotaract.jpg",
     clubEB: [
       ["President", "Maya Yadav", "8260263048"],
       ["Vice President ", "Piyush Kumar Sahoo", "82492 38274"],
@@ -220,7 +220,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1ADmtPOoLYnc2j1oiALzcV5H3GbcDxfrO9_dZrVTO9-k/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137275/ClubGroupPhoto/9ddb9730-aaf0-4e39-a5fc-48ade9ee2927_-_Ray_Jew_ig9vqy.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_drill-n-bass.jpeg",
     clubEB: [
       ["President", "Dhruv Asnora", "77359 84876"],
       ["Vice President", "Shreyas Padhy ", "82492 81341"],
@@ -247,7 +247,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1FI1jv4wnAe38F4krpXOC0Xk1EbtbUTGpN5T3gZJBNKs/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679135535/ClubGroupPhoto/WhatsApp_Image_2023-03-14_at_01.08.32_-_Game_To_Aim_rst4lu.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_GTA.png",
     clubEB: [
       ["President", "Saksham Devkota", "977 9847280780"],
       ["Vice-President", "Mihir Bibhuty", "9339233880"],
@@ -278,7 +278,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/165dqUw9OX964YXlx5XThqchSbiZZowWxBm8zYcRHi0U/edit#gid=0",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679135697/ClubGroupPhoto/RD_Group_Image_1_-_Tripali_Tah_fm2yt8.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_RainbowDot.jpeg",
     clubEB: [
       ["President", "Tejsi Giri", "9771213020"],
       ["Vice President", "Tanya Gupta", "9369061210"],
@@ -327,7 +327,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/19ha1Bsir13VcMNOusar-nykTras1IEDNmQHJUTDLC_U/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679136043/ClubGroupPhoto/DSC00674_-_RITVIC_-_NIT_Rourkela_cncvhw.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_ritvic.JPG",
     clubEB: [
       ["PRESIDENT", "Debahuti Mishra", "7032815435"],
       ["VICE-PRESIDENT", "Sipra Sahoo", "7008523904"],
@@ -392,7 +392,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/19tbTU-oF6UaWJJ9GZOHoPAMHZfks-9L0_0L0U4ESEFA/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137516/ClubGroupPhoto/AIChE_NITR-Club_Group_pic_-_Bibhuti_Bhusan_Pradhan_ulcg6i.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_aiche.jpg",
     clubEB: [
       ["President", "Siddharth Ray", "96687 49887"],
       ["Vice-President", "Suman Kumar Mishra", "78488 02390"],
@@ -424,7 +424,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/17mO38b6gxHriM8zjABjvTLNHo-uYDKLPe5vd5XEkTEw/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679136204/ClubGroupPhoto/IMG-20230313-WA0004_-_Manas_Teertha_Nayak_1_x3rcia.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_3D.jpg",
     clubEB: [
       ["President", "Ratanpalke Kavya", "96034 30476"],
       ["Vice President", "Manas Teertha Nayak", "94370 00717"],
@@ -454,7 +454,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1rtWvYUsZ_4O69-SMNUHWjWGqIlNid_MMSqFXSe3OFkM/edit#gid=0",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679136262/ClubGroupPhoto/IMG_2721_-_ASME_NITR_qlcooc.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_ASME.jpg",
     clubEB: [
       ["President", "Deepak Kumar Mohanty", "7846869751"],
       ["Vice-President", "Anisha Mohapatra", "6371392608"],
@@ -485,7 +485,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1GwCJPaluhwPh8u2VHQfRbQ4Cy7LXFQqu2Ol7RdA8pxc/edit#gid=0",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679136296/ClubGroupPhoto/CEST_GROUP_PHOTO_-_Sushmit_Singh_igdeje.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_CEST.jpg",
     clubEB: [
       ["President", "Vinayak Agrawal", "8839544766"],
       ["Vice-President", "Satyajeet Swain", "7848800477"],
@@ -514,7 +514,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1Ki_z8MEO6noK7vVUwS8qyIBpj_lO5XafgVbm-e4ptL8/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679169332/312307268_1207246603339136_2087314578149925646_n.jpeg_utkdzy.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_euphony.png",
     clubEB: [
       ["President", "Rishabhdev Potti", "9446134852"],
       ["Vice-President", "Shounak Das", "7603006661"],
@@ -541,7 +541,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1N_1LlK_s4FbaBvodUdQQDEDbPTLphXqvhhXznk4q2e4/edit?usp=drivesdk",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679136345/ClubGroupPhoto/IMG-20230314-WA0015_-_The_Bioscience_Society_gawnjq.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_bioscience%20society.jpg",
     clubEB: [
       ["President", "Sambit Kumar Pradhan", "7205353738"],
       ["Vice President", "Arpita Subhadarshini", "9938460530"],
@@ -610,7 +610,7 @@ const clubData = [
     clubFacadMob: 7395979565,
     clubDocccc: "https://1drv.ms/x/s!Amv22uxFn3R8gRKtVaISaZqwiA4t?e=Hff7ls",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137655/ClubGroupPhoto/MicrosoftTeams-image_1_-_Krithika_Mudavath_ocdxeu.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_mavericks.jpg",
     clubEB: [
       ["Chief Coordinator", "Harsh Prajapati", "8917490334"],
       ["Chief Coordinator", "Haripriya Kishan", "6372679482"],
@@ -669,6 +669,8 @@ const clubData = [
     clubFacadMob: 9597775712,
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/11jbSWwXH7q1K8Qc2cxZ5s0zXgBxgPJHBl6Wz52in4f4/edit?usp=sharing",
+    clubGroupPhoto:
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_3dp.jpg",
     clubEB: [
       ["President", "Kasam Santhosh Prathik", "9704771510"],
       ["Vice President", "Sathwik Sekharamantri", "7396040254"],
@@ -726,7 +728,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1idx2BqfQv5oo8LrZgoEEFJQbEyMbZzd_rAFq9HUnGSs/edit#gid=0",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679137937/ClubGroupPhoto/Group_Photo_-_Sagar_Mangaraj_ooah5c.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_IIChe.jpg",
     clubEB: [
       ["President", "Nalin Kumar", "9635985263"],
       ["Vice-President", "Buddharatna B. Hingole", "9145137116"],
@@ -781,7 +783,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1jqfeqOsFw49pttvJ4pb7hws8nPcvdcN2yPw9szOajsY/edit?usp=drivesdk",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138243/ClubGroupPhoto/IMG_7068_-_Ankush_Lohani_pjhnlb.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_pantomime.jpg",
     clubEB: [
       ["President", "Ankush Lohani", "8107810784"],
       ["Vice President", "Sayambika Das", "9438150363"],
@@ -919,7 +921,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1Jn-HJ0mllhXrIkA-POXprAbMvnidsgfW6j5dFczfjH0/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138536/ClubGroupPhoto/Screenshot_20221114-165422_WhatsApp_-_aditya_jenamani_dphqeo.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_genesys.jpg",
     clubEB: [
       ["Vipul Dewasthale", "President", "9406967902"],
       ["Aditi Bhakat", "Vice-President", "9832559861"],
@@ -953,6 +955,8 @@ const clubData = [
     clubFacadMob: "+918144923411 / +917750960066",
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1CjMg06v7DCfO4MOcMtNsVImPXWqHNEbjLXmL0UVH-2A/edit#gid=0",
+    clubGroupPhoto:
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_CEST.jpg",
     clubEB: [
       ["President", "Aayush Dinesh Kandpal", 8291690166],
       ["Secretary", "Lokesh Kumar Behera", 9090422962],
@@ -985,7 +989,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1l1q2JH64sQuGYw9EJsD-8zpEMnivTJlDPRnvofNe-MM/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138660/ClubGroupPhoto/WhatsApp_Image_2023-03-13_at_10.57.00_PM_-_Nikita_Agarwal_s8jpou.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_axiom.jpg",
     clubEB: [
       ["President", "Nikita Agarwal", 7991030024],
       ["Vice President", "Subhendu Shekhar Tripathy", 6370021206],
@@ -1043,7 +1047,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1rFPErU1kqZg4BvcwEj8jEVXGqhWcYbVeEE5C880huH4/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138796/ClubGroupPhoto/group_-_Swayam_Mohanty_dukitj.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_shortcircuit.jpg",
     clubEB: [
       ["President", "Swayam Mohanty", 7978617895],
       ["Vice President", "Goutam Sahu", 9078587157],
@@ -1074,7 +1078,7 @@ const clubData = [
     clubDocccc:
       "https://drive.google.com/drive/u/0/folders/1rCPtLAAjNraOr3ThRnkeXzedHxOLnJTE",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138850/ClubGroupPhoto/IMG_20230314_235217_-_Amit_suryadipta_Kar_dk3egn.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_odia-sahitya-samaj.JPG",
     clubEB: [
       ["PRESIDENT", "AMIT SURYADIPTA KAR", 8337976733],
       ["VICE- PRESIDENT", "SARTHAK PRASAD SAHOO", 7008698366],
@@ -1104,7 +1108,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1ZGpDutWG5-k0_Bl8GynlC7gfM_5XYmXX/edit#gid=577826563",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679138931/ClubGroupPhoto/311780339_234570295561121_8803281892657017261_n_5_-_Krishna_Aditya_Mohanty_khlzhk.png",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_inquizzitive.jpg",
     clubEB: [
       ["President", "Krishna Aditya Mohanty", 9937046915],
       [" Vice-President", "Siddharth Ray ", 9668749887],
@@ -1134,7 +1138,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1hi_zqcO4FgqEMKvvZ350PpJx5sut-ntwi6GnrAEZO80/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679139008/ClubGroupPhoto/AKRITI_-_Atri_Ranjan_Das_l26oht.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_akriti.JPG",
     clubEB: [
       ["President", "Atri Ranjan Das", 9777369410],
       ["Vice President", "Sugyan Bentakar", 7849099718],
@@ -1162,14 +1166,14 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1z9Rl0_TgpoXD6Nak-K84mZAv-ePPtJGPfvJ-OskE_uA/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679139071/ClubGroupPhoto/IMG_4429_-_Susmita_Panda_xmluuw.heic",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_kalaam.jpg",
     clubEB: [
-      ["President", "Bishal Atal", "121cs0141@nitrkl.ac.in"],
-      ["Vice President", "Susmita Panda", "121fp0847@nitrkl.ac.in"],
-      ["Treasurer", "Gaurav Kumar", "121ce0562@nitrkl.ac.in"],
-      ["Technical Coordinator", "Eeshan Pal Singh", "122me0674@nitrkl.ac.in"],
-      ["Coordinator", "Pravendra Anuragi ", "122ei0848@nitrkl.ac.in"],
-      ["Coordinator", "Dasari Sam Asher", "122ei0175@nitrkl.ac.in"],
+      ["President", "Diwakar Mishra", 7319639134],
+      ["Vice President", "Prisita Preetam", 8847805647],
+      ["Technical Head", "Shubham Arya Singh", 7898729445],
+      ["Treasurer", "Akansh Nayak", 7848000070],
+      ["Coordinator", "Bishal Atal ", +9779862077887],
+      ["Coordinator", "	Susmita Panda", 9861225356],
     ],
   },
   {
@@ -1193,7 +1197,7 @@ const clubData = [
     "clubDocccc ":
       "https://docs.google.com/spreadsheets/d/1YZ2Ao3cVH1HuLKnlFu5FuALJeYWIxa4-RLNBFgzkvgQ/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679168748/club_photo_-_Srinibas_Panigrahi_a3pwtx.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_sdg.jpg",
     clubEB: [
       ["President", "V Raja Patra", "7789942173"],
       ["Vice-President", "Ravi Teja Marni", "7793941686"],
@@ -1224,12 +1228,12 @@ const clubData = [
     clubGroupPhoto:
       "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679174272/20230119_194656_-_SATYAM_SONI_hchhiw__2_dfsfts.jpg",
     clubEB: [
-      ["President", "Nityanalini Hembram", "121cs0170@nitrkl.ac.in"],
-      ["General Secretary", "Chinmayee Priyadarshini", "121bm0733@nitrkl.ac.in"],
-      ["Treasurer", "Basudha Behera", "121bm0002@nitrkl.ac.in"],
-      ["Management Secretary", "R. Subhrasital", "121cs0247@nitrkl.ac.in"],
-      ["Technical Secretary", "Yesheswini Visukamuri", "121ee1073@nitrkl.ac.in"],
-      ["Dance Coordinator", "Ritik Upare", "422ls2318@nitrkl.ac.in"],
+      ["President", "Aditi Bhakat", "9832559861"],
+      ["Treasurer", "Satyam Soni", "8717974194"],
+      ["Design Head", "Shree Acharya", "84578 04428"],
+      ["Co-ordinator", "Nitya Nalini", "91780 08790"],
+      ["Co-ordinator", "Chinmayee Priyadarshini", "98619 20753"],
+      ["Co-ordinator", "Sushrita Lima", "78479 83745"],
     ],
   },
   {
@@ -1254,17 +1258,10 @@ const clubData = [
     clubGroupPhoto:
       "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679168868/20221114_150223_-_Sanjeet_Patro_qmt7j6.jpg",
     clubEB: [
-      ["President", "Nippen Kumar Sahoo", "120ec1076@nitrkl.ac.in"],
-      ["Vice-President", "Mrinal Misra", "121cs0132@nitrkl.ac.in"],
-      ["Secretary", "Akshaya Kumar Maharana", "121mn1058@nitrkl.ac.in"],
-      ["Treasurer", "Sahasrabda Sai Pradhan", "121bt0677@nitrkl.ac.in"],
-      ["Robotics Lead", "Phanendra Sreeharsh Kowdodi", "121me0859@nitrkl.ac.in"],
-      ["Electronics Lead", "Raj Pattnaik", "121ch0745@nitrkl.ac.in"],
-      ["Mechanical Lead", "Shantanu Panda", "121me1026@nitrkl.ac.in"],
-      ["Industrial Lead", "Monalisa Behera", "121ec0264@nitrkl.ac.in"],
-      ["Web and Automation Lead", "Sai Ram Senapati", "121me0502@nitrkl.ac.in"],
-      ["IGVC Lead", "Pratik Kumar Sahoo", "121id0437@nitrkl.ac.in"],
-      ["IARC Lead", "Diksha Kumari", "121me1030@nitrkl.ac.in"],
+      ["President", "Suyash Umesh Verma", "7749028252"],
+      ["Vice-President", "Adyasha Jena", "7656814344"],
+      ["Secretary", "Sanjeet Patro", "8658532960"],
+      ["Treasurer", "Sayantan Chatterjee ", "8073914145"],
     ],
   },
   {
@@ -1287,7 +1284,7 @@ const clubData = [
     "clubDocccc ":
       "https://docs.google.com/spreadsheets/d/1GtXzPKY7yMifN9_2jDJ7aCpcL-wKBHGXXjp4KOTLcs8/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679168915/1678823795278_-_Rohan_Kumar_1_hqmf7t.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_synergy.jpg",
     clubEB: [
       ["Chief-Coordinator", "Akash Vardhan Lakkineni", "7337045524"],
       ["Chief-Coordinator", "Rohan Kumar Sethi", "8114989857"],
@@ -1316,7 +1313,7 @@ const clubData = [
     "clubDocccc ":
       "https://docs.google.com/document/d/1jVMlsXCidNAgTd4TMKrb4bVdunfriJqF8-fuCEgCj3E/edit?usp=sharing",
     clubGroupPhoto:
-      "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679168975/Heartbeats_-_devraj_changkakati_hwegre.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/club%20group%20pic/jpeg-optimizer_heartbeats.jpg",
     clubEB: [
       ["President", "Melvin Ignatius Toppo", "9799097643"],
       ["Vice President", "Gajraj Mohini", "9668779283"],
@@ -1371,7 +1368,8 @@ const clubData = [
     clubFacad: "Tapas Kumar Mishra",
     clubFacadMob: 99,
     "clubDocccc ": "zz",
-    clubGroupPhoto:"https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679169760/IMG_9448_jjhqkv.jpg",
+    clubGroupPhoto:
+      "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679169760/IMG_9448_jjhqkv.jpg",
     clubEB: [
       ["President", "Gourab Nanda", "7327080609"],
       ["Vice President", "Kumar Shantanu", "6203158074"],
@@ -1401,7 +1399,7 @@ const clubData = [
     clubDocccc:
       "https://docs.google.com/spreadsheets/d/1fq80hpt6-iExSOUns2SEdthqvxv7rxmDu0SGt5sh31Q/edit?usp=sharing ",
     clubGroupPhoto:
-      "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679169217/FC_Group_Pic_-_Abhinandan_Mishra_efczou.jpg",
+      "https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Group%20Photo/Grp%20photo%201-25/jpeg-optimizer_finance.jpg",
     clubEB: [
       ["President ", "Abhinandan Mishra", "9437583729"],
       ["Vice-President", "Rajiv Sahu", "9098633074"],
