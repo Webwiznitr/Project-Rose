@@ -27,10 +27,10 @@ const SocietyContactCard = ({
     },
     {
       officialsImage:
-        "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679067310/SacOfficials/_SMX0008_olkbzm.jpg",
-      name: "Prasun Chongder",
+        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1697713524/PXL_20230925_133534302.MP_jscubn.jpg",
+      name: "Tirthankar Sarkar",
       designation: "Vice-President, Technical Society",
-      email: "chongderp@nitrkl.ac.in",
+      email: "sarkart@nitrkl.ac.in",
     },
     {
       officialsImage:
@@ -63,10 +63,10 @@ const SocietyContactCard = ({
 
     {
       officialsImage:
-        "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679067308/SacOfficials/_SMX0013_aoss2e.jpg",
-      name: "Balaji P.S.",
+        "https://res.cloudinary.com/du3uvgzdr/image/upload/v1698970848/1201379_vh4wkf.jpg",
+      name: "Kumud Kant Mehta",
       designation: "Vice-President, Film and Music Society",
-      email: "psbalaji@nitrkl.ac.in",
+      email: "mehtakk@nitrkl.ac.in",
     },
     {
       officialsImage:
@@ -77,29 +77,29 @@ const SocietyContactCard = ({
     },
   ];
 
-  const representative3 = [
-    {
-      officialsImage:
-        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
-      name: "Rajendra Kar",
-      designation: "SAS Officer",
-      email: "sahub@nitrkl.ac.in",
-    },
-    {
-      officialsImage:
-        "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
-      name: "Nalini Nihar Nayak",
-      designation: "SAS Officer",
-      email: "sahub@nitrkl.ac.in",
-    },
-    {
-      officialsImage:
-       "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
-      name: "T R Pattnaik",
-      designation: "SAS Officer",
-      email: "sahub@nitrkl.ac.in",
-    },
-  ];
+  // const representative3 = [
+  //   {
+  //     officialsImage:
+  //       "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
+  //     name: "Rajendra Kar",
+  //     designation: "SAS Officer",
+  //     email: "sahub@nitrkl.ac.in",
+  //   },
+  //   {
+  //     officialsImage:
+  //       "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
+  //     name: "Nalini Nihar Nayak",
+  //     designation: "SAS Officer",
+  //     email: "sahub@nitrkl.ac.in",
+  //   },
+  //   {
+  //     officialsImage:
+  //      "https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg",
+  //     name: "T R Pattnaik",
+  //     designation: "SAS Officer",
+  //     email: "sahub@nitrkl.ac.in",
+  //   },
+  // ];
 
   return (
     <div>
@@ -146,7 +146,7 @@ const SocietyContactCard = ({
         </div>
       </div>
 
-      <div className=" grid grid-cols-[25vw_25vw_25vw]  place-content-center  gap-x-[5vw] max-[900px]:grid-cols-[80vw]  max-[767px]:place-content-center ml-10">
+      {/* <div className=" grid grid-cols-[25vw_25vw_25vw]  place-content-center  gap-x-[5vw] max-[900px]:grid-cols-[80vw]  max-[767px]:place-content-center ml-10">
         {representative3.map((data, idx) => {
           return (
             <div className="flex items-center mt-[10vh] ">
@@ -164,7 +164,7 @@ const SocietyContactCard = ({
             </div>
           );
         })}
-      </div>
+      </div> */}
     </div>
   );
 };
