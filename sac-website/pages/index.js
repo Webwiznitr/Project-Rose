@@ -68,23 +68,16 @@ export default function Home() {
         />
         <Deanspeaks
 
-          data="Message from Dean"
-          image="https://res.cloudinary.com/du3uvgzdr/image/upload/v1698967740/dean_r6xbdl.jpg"
+        data="Message from Dean"
+        image="https://res.cloudinary.com/du3uvgzdr/image/upload/v1698967740/dean_r6xbdl.jpg"
 
-          description="NIT Rourkela is one of the premier institutes of the country, with a tag of institute of national importance. Here at NITR we groom our students as future responsible citizens of the country. We are confident that each one our students will be directly or indirectly involved in the nation building process to take our country from developing to developed country in near future. We prepare our students to not only excel in academics, rather our focus is for their all-round development so that they can face any challenges with success in life. Towards this over all development of personality, Student Activity Center at NITR plays a major role.  
-          The Student Activity Center is a vibrant hub of holistic development, where students can pursue their passions, hone their talents, and forge lifelong bonds. We offer a diverse tapestry of clubs and organisations, catering to every conceivable interest, from academics and athletics to the arts and literature. Whether you seek to forge new friendships, acquire new skills, or simply enjoy yourself outside the classroom, the Student Activity Center is a treasure trove of opportunities. We encourage all students to embrace this vibrant tapestry and make the most of their college experience. I urge you to explore the Student Activity Center and discover something that ignites your passion. It is a place where you can learn, grow, and have fun simultaneously."
-        />
-         <AboutNITR
-          data="President Sac Speaks"
-           img="https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg"
-          description="It is with great enthusiasm and pride that I welcome you to the Student Activity Centre at the National Institute of Technology Rourkela. As the President of this vibrant and dynamic hub of student life, I am honoured to represent a community of talented, passionate, and driven individuals who are committed to enhancing the overall experience of our students.
-
-          At NIT Rourkela, we firmly believe education is not limited to classrooms and textbooks. The Student Activity Centre is a melting pot of creativity, innovation, and holistic development. It's a place where students can explore their interests, nurture their talents, and forge lifelong connections. Our primary mission is to create a platform for students to engage in various activities, from cultural and sports events to technical and entrepreneurial pursuits. We encourage our students to push their boundaries, challenge their limits, and discover new passions. Through our numerous clubs, societies, and events, we aim to foster leadership, teamwork, and a spirit of exploration.
-          
-          As the President, I am committed to working closely with our dedicated team and the entire student body to ensure that the Student Activity Centre remains a vibrant and inclusive space. We will continue to organize exciting events, workshops, and activities that cater to the diverse interests of our students. 
-          
-          I want to extend my gratitude to the institute leadership, students, faculty, staff, and the entire NIT Rourkela community for their unwavering support. Together, we can create an enriching and unforgettable college experience for our students."
-        />
+        description="NIT Rourkela, a prestigious national institute, aims to mold responsible future citizens for nation-building. We prioritize all-round development, not just academics, fostering a transition from a developing to a developed country. The Student Activity Center plays a pivotal role in personality development. It offers a diverse range of clubs and organizations, covering academics, athletics, arts, and literature, providing students with a treasure trove of opportunities. Whether you seek friendships, skills, or enjoyment, this vibrant hub is the place to explore during your college journey. Embrace the Student Activity Center for a holistic and enjoyable college experience, igniting your passion for learning and growth."
+/>
+<AboutNITR
+data="President Sac Speaks"
+ img="https://res.cloudinary.com/de2s0mcjo/image/upload/v1695409082/IMG-20230913-WA0135_nanw4l.jpg"
+description="As President of NIT Rourkela's Student Activity Centre, I warmly welcome you to this dynamic hub of student life. We're dedicated to enhancing the overall student experience, believing that education extends beyond classrooms. This center is a crucible of creativity, innovation, and holistic development, where students explore interests, nurture talents, and build lasting connections. Our mission is to provide a platform for diverse activities, including cultural, sports, technical, and entrepreneurial pursuits. I commit to working with our team to maintain a vibrant, inclusive space, organizing engaging events, workshops, and activities. Thanks to the NIT Rourkela community's support, we'll create an unforgettable college journey."
+/>
         <Slider/>
         <Announcement />
         <SocietyRepresentative />

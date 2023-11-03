@@ -1164,12 +1164,12 @@ const clubData = [
     clubGroupPhoto:
       "https://res.cloudinary.com/webwiznitr/image/upload/f_auto,q_70/v1679139071/ClubGroupPhoto/IMG_4429_-_Susmita_Panda_xmluuw.heic",
     clubEB: [
-      ["President", "Diwakar Mishra", 7319639134],
-      ["Vice President", "Prisita Preetam", 8847805647],
-      ["Technical Head", "Shubham Arya Singh", 7898729445],
-      ["Treasurer", "Akansh Nayak", 7848000070],
-      ["Coordinator", "Bishal Atal ", +9779862077887],
-      ["Coordinator", "	Susmita Panda", 9861225356],
+      ["President", "Bishal Atal", "121cs0141@nitrkl.ac.in"],
+      ["Vice President", "Susmita Panda", "121fp0847@nitrkl.ac.in"],
+      ["Treasurer", "Gaurav Kumar", "121ce0562@nitrkl.ac.in"],
+      ["Technical Coordinator", "Eeshan Pal Singh", "122me0674@nitrkl.ac.in"],
+      ["Coordinator", "Pravendra Anuragi ", "122ei0848@nitrkl.ac.in"],
+      ["Coordinator", "Dasari Sam Asher", "122ei0175@nitrkl.ac.in"],
     ],
   },
   {
@@ -1224,12 +1224,12 @@ const clubData = [
     clubGroupPhoto:
       "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679174272/20230119_194656_-_SATYAM_SONI_hchhiw__2_dfsfts.jpg",
     clubEB: [
-      ["President", "Aditi Bhakat", "9832559861"],
-      ["Treasurer", "Satyam Soni", "8717974194"],
-      ["Design Head", "Shree Acharya", "84578 04428"],
-      ["Co-ordinator", "Nitya Nalini", "91780 08790"],
-      ["Co-ordinator", "Chinmayee Priyadarshini", "98619 20753"],
-      ["Co-ordinator", "Sushrita Lima", "78479 83745"],
+      ["President", "Nityanalini Hembram", "121cs0170@nitrkl.ac.in"],
+      ["General Secretary", "Chinmayee Priyadarshini", "121bm0733@nitrkl.ac.in"],
+      ["Treasurer", "Basudha Behera", "121bm0002@nitrkl.ac.in"],
+      ["Management Secretary", "R. Subhrasital", "121cs0247@nitrkl.ac.in"],
+      ["Technical Secretary", "Yesheswini Visukamuri", "121ee1073@nitrkl.ac.in"],
+      ["Dance Coordinator", "Ritik Upare", "422ls2318@nitrkl.ac.in"],
     ],
   },
   {
@@ -1254,10 +1254,17 @@ const clubData = [
     clubGroupPhoto:
       "https://res.cloudinary.com/dnvnnngxz/image/upload/f_auto,q_70/v1679168868/20221114_150223_-_Sanjeet_Patro_qmt7j6.jpg",
     clubEB: [
-      ["President", "Suyash Umesh Verma", "7749028252"],
-      ["Vice-President", "Adyasha Jena", "7656814344"],
-      ["Secretary", "Sanjeet Patro", "8658532960"],
-      ["Treasurer", "Sayantan Chatterjee ", "8073914145"],
+      ["President", "Nippen Kumar Sahoo", "120ec1076@nitrkl.ac.in"],
+      ["Vice-President", "Mrinal Misra", "121cs0132@nitrkl.ac.in"],
+      ["Secretary", "Akshaya Kumar Maharana", "121mn1058@nitrkl.ac.in"],
+      ["Treasurer", "Sahasrabda Sai Pradhan", "121bt0677@nitrkl.ac.in"],
+      ["Robotics Lead", "Phanendra Sreeharsh Kowdodi", "121me0859@nitrkl.ac.in"],
+      ["Electronics Lead", "Raj Pattnaik", "121ch0745@nitrkl.ac.in"],
+      ["Mechanical Lead", "Shantanu Panda", "121me1026@nitrkl.ac.in"],
+      ["Industrial Lead", "Monalisa Behera", "121ec0264@nitrkl.ac.in"],
+      ["Web and Automation Lead", "Sai Ram Senapati", "121me0502@nitrkl.ac.in"],
+      ["IGVC Lead", "Pratik Kumar Sahoo", "121id0437@nitrkl.ac.in"],
+      ["IARC Lead", "Diksha Kumari", "121me1030@nitrkl.ac.in"],
     ],
   },
   {
