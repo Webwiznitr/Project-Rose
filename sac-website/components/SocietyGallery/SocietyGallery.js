@@ -2057,7 +2057,16 @@ const APS = [[{img:"https://sacnitrkl.blr1.cdn.digitaloceanspaces.com/Club%20Fac
     },
 
     ],
+
   ];
+   const threeD = [
+[{}],
+[],
+[],
+[]
+
+
+   ]
 
   const shortCurcuit = [
     [
